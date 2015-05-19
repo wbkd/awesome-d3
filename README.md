@@ -1,5 +1,5 @@
 # Awesome D3
-We created this list, because we want to keep track of interesting libs, plugins, ressources etc about [D3js](http://d3js.org).
+We created this list to keep track of interesting libs, plugins, ressources etc about [D3js](http://d3js.org).
 
 # Libraries and Plugins
 
