@@ -6,6 +6,7 @@ We decided not to list tutorials, ressources or concepts here, because there is 
 
 ## Charts
 
+- [bullet chart](https://github.com/d3/d3-plugins/tree/master/bullet) - Bullet chart
 - [cubism](https://square.github.io/cubism/) - Time Series Visualization
 - [c3](http://c3js.org/) - Reusable chart library
 - [dc](http://dc-js.github.io/dc.js/) - For heavy amounts of data
