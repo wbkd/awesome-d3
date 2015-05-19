@@ -15,6 +15,7 @@ We created this list to keep track of interesting libs, plugins, ressources etc 
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components
 - [pykcharts](http://pykcharts.com/) - Themeable, responsive, modular, real-time charts and 109+ maps
+- [react-d3](https://github.com/esbullington/react-d3) - Modular React charts
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 
