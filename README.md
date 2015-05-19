@@ -1,8 +1,7 @@
-# Awesome D3
+# Awesome D3 - Libraries and Plugins
 We created this list to keep track of interesting libs, plugins, ressources etc about [D3js](http://d3js.org).
 We decided not to list tutorials, ressources or concepts here, because there is already a [very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials) out there you can contribute to.
 
-# Libraries and Plugins
 
 ## Charts
 
