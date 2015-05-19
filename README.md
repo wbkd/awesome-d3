@@ -32,10 +32,14 @@ We created this list to keep track of interesting libs, plugins, ressources etc 
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [textures](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
 
-## Reading
+# Reading
 
+## Tutorials
+
+- [dashingd3js tutorials](https://www.dashingd3js.com/table-of-contents) - Large set of tutorials
 - [D3 Tutorials](http://alignedleft.com/tutorials/d3) - Detailed D3 Tutorials for beginners
 
-## Examples
+
+# Examples
 
 - [The Big List of D3.js Examples](http://christopheviau.com/d3list/)
