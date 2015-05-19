@@ -30,3 +30,4 @@ We created this list to keep track of interesting libs, plugins, ressources etc 
 - [d3-extended](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
 - [d3-helpers](https://github.com/bahmutov/d3-helpers) - Little utility functions
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
+- [textures](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
