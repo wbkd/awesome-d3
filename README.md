@@ -18,9 +18,13 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components
 - [pykcharts](http://pykcharts.com/) - Themeable, responsive, modular, real-time charts and 109+ maps
 - [radar chart](https://github.com/alangrafu/radar-chart-d3) - Radar chart module 
-- [react-d3](https://github.com/esbullington/react-d3) - Modular React charts
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
+
+#### Third Party Charts
+
+- [angular-nvd3](http://krispo.github.io/angular-nvd3) - NVd3 for Angular
+- [react-d3](https://github.com/esbullington/react-d3) - Modular React charts
 
 ## Maps and Geo Stuff
 
