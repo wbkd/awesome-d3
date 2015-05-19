@@ -37,6 +37,10 @@ We created this list to keep track of interesting libs, plugins, ressources etc 
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [textures](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
 
+## Miscellaneous
+
+- [d3-cloud](https://github.com/jasondavies/d3-cloud) - Word clouds 
+
 # Reading
 
 ## Tutorials
