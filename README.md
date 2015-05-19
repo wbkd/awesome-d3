@@ -19,11 +19,12 @@ We created this list to keep track of interesting libs, plugins, ressources etc 
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 
-## Maps
+## Maps and Geo Stuff
 
 - [carto map](https://github.com/emeeks/d3-carto-map) - A mapping API that uses D3 geospatial functionality
 - [composite-projections](http://rveciana.github.io/d3-composite-projections/) - Set of projections for showing countries' distant lands together
 - [datamaps](http://datamaps.github.io/) - Customizable map visualizations in one file
+- [d3 geo projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections
 - [simple map](http://code.minnpost.com/simple-map-d3/) - Easy choropleth style maps 
 
 ## Utils
