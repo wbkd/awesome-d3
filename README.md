@@ -1,5 +1,6 @@
 # Awesome D3
 We created this list to keep track of interesting libs, plugins, ressources etc about [D3js](http://d3js.org).
+We decided not to list tutorials, ressources or concepts here, because there is already a [very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials) out there you can contribute to.
 
 # Libraries and Plugins
 
@@ -40,15 +41,3 @@ We created this list to keep track of interesting libs, plugins, ressources etc 
 ## Miscellaneous
 
 - [d3-cloud](https://github.com/jasondavies/d3-cloud) - Word clouds 
-
-# Reading
-
-## Tutorials
-
-- [dashingd3js tutorials](https://www.dashingd3js.com/table-of-contents) - Large set of tutorials
-- [D3 Tutorials](http://alignedleft.com/tutorials/d3) - Detailed D3 Tutorials for beginners
-
-
-# Examples
-
-- [The Big List of D3.js Examples](http://christopheviau.com/d3list/)
