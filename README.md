@@ -24,7 +24,9 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 ##### Third Party Charts
 
 - [angular-nvd3](http://krispo.github.io/angular-nvd3) - NVd3 for Angular
-- [react-d3](https://github.com/esbullington/react-d3) - Modular React charts
+- [ember charts](http://addepar.github.io/#/ember-charts/overview) - charts for Ember
+- [n3-charts](http://n3-charts.github.io/line-chart/#/) - charts for Angular
+- [react-d3](https://github.com/esbullington/react-d3) - charts for React
 
 ## Maps and Geo Stuff
 
