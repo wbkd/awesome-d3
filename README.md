@@ -1,7 +1,7 @@
 # Awesome D3
 
-This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and helpers.
-<br />We decided not to list tutorials, ressources or concepts here, because there is already a **[very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials)** out there you can contribute to.
+This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and utilities.
+<br />We decided not to list tutorials, ressources or concepts here, because there is already a **[very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials)** out there you can check out and contribute to.
 
 
 ## Charts
@@ -21,7 +21,7 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 
-#### Third Party Charts
+##### Third Party Charts
 
 - [angular-nvd3](http://krispo.github.io/angular-nvd3) - NVd3 for Angular
 - [react-d3](https://github.com/esbullington/react-d3) - Modular React charts
