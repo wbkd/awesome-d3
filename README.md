@@ -21,14 +21,14 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 
-##### Third Party Charts
+##### Third Party
 
 - [angular-nvd3](http://krispo.github.io/angular-nvd3) - NVd3 for Angular
 - [ember charts](http://addepar.github.io/#/ember-charts/overview) - charts for Ember
 - [n3-charts](http://n3-charts.github.io/line-chart/#/) - charts for Angular
 - [react-d3](https://github.com/esbullington/react-d3) - charts for React
 
-## Maps and Geo Stuff
+## Maps
 
 - [carto map](https://github.com/emeeks/d3-carto-map) - A mapping API that uses D3 geospatial functionality
 - [composite-projections](http://rveciana.github.io/d3-composite-projections/) - Set of projections for showing countries' distant lands together
@@ -36,6 +36,10 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 - [d3 cartogram](http://prag.ma/code/d3-cartogram/) - Cartograms with D3 & TopoJSON
 - [d3 geo projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections
 - [simple map](http://code.minnpost.com/simple-map-d3/) - Easy choropleth style maps 
+
+##### Third Party
+
+- [leaflet-d3](https://github.com/Asymmetrik/leaflet-d3) - Collection of plugins for using D3 with Leaflet
 
 ## Utils
 
