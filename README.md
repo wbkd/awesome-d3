@@ -21,6 +21,7 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 - [radar chart](https://github.com/alangrafu/radar-chart-d3) - Radar chart module 
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
+- [uvCharts](http://imaginea.github.io/uvCharts/index.html)  - Supports lots of different chart types
 
 ##### Third Party
 
