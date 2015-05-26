@@ -12,7 +12,7 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 - [dc](http://dc-js.github.io/dc.js/) - For heavy amounts of data
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics
 - [d3.chart](http://misoproject.com/d3-chart/) - Framework for building reusable charts
-- [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator.
+- [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting
 - [D4](http://visible.io/) - reusable charts DSL
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
@@ -23,6 +23,7 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [uvCharts](http://imaginea.github.io/uvCharts/index.html)  - Supports lots of different chart types
+- [vega](http://trifacta.github.io/vega/) - A visualization grammar
 
 ##### Third Party
 
