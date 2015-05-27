@@ -56,5 +56,6 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 
 ## Miscellaneous
 
+- [dragit](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics
 - [d3moji](https://github.com/mathisonian/d3moji) - First class emoji support
 - [d3-cloud](https://github.com/jasondavies/d3-cloud) - Word clouds 
