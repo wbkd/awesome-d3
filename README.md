@@ -16,12 +16,16 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting
 - [D4](http://visible.io/) - reusable charts DSL
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
+- [firespray](https://github.com/boundary/firespray) - Streaming charts
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
+- [micropolar](http://micropolar.org/) - A polar chart library 
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components
+- [plottablejs](http://plottablejs.org/) - Flexible, interactive charts for the web
 - [pykcharts](http://pykcharts.com/) - Themeable, responsive, modular, real-time charts and 109+ maps
 - [radar chart](https://github.com/alangrafu/radar-chart-d3) - Radar chart module 
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
+- [techanjs](http://techanjs.org/) - A visual, stock charting and technical analysis 
 - [uvCharts](http://imaginea.github.io/uvCharts/index.html)  - Supports lots of different chart types
 - [vega](http://trifacta.github.io/vega/) - A visualization grammar
 
