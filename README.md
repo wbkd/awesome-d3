@@ -52,6 +52,7 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 ## Utils
 
 - [d3-extended](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
+- [d3-plus](http://d3plus.org/) - an extension to the D3 library that allows fast and easy creation of data visualizations
 - [d3-helpers](https://github.com/bahmutov/d3-helpers) - Little utility functions
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltips helper
 - [d3.slider](https://github.com/turban/d3.slider) - jquery UI inspired slider
