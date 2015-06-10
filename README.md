@@ -7,6 +7,7 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 ## Charts
 
 - [bullet chart](https://github.com/d3/d3-plugins/tree/master/bullet) - Bullet chart
+- [cirrus.js](http://planet-os.github.io/cirrusjs/) - A multi-renderer charts library
 - [cubism](https://square.github.io/cubism/) - Time Series Visualization
 - [c3](http://c3js.org/) - Reusable chart library
 - [dc](http://dc-js.github.io/dc.js/) - For heavy amounts of data
