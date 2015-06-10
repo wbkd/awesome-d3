@@ -59,7 +59,9 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltips helper
 - [d3.slider](https://github.com/turban/d3.slider) - jquery UI inspired slider
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
+- [kodama](http://darkmarmot.github.io/kodama/) - Tooltip Plugin
 - [textures](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
+
 
 ## Miscellaneous
 
