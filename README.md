@@ -49,6 +49,7 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 ##### Third Party
 
 - [leaflet-d3](https://github.com/Asymmetrik/leaflet-d3) - Collection of plugins for using D3 with Leaflet
+- [Wikimaps-D3js Atlas](https://github.com/WikimapsAtlas/make-modules) - Command line utility and D3js based library to generate raster, topojson and svg maps
 
 ## Utils
 
