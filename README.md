@@ -44,6 +44,7 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 - [datamaps](http://datamaps.github.io/) - Customizable map visualizations in one file
 - [d3 cartogram](http://prag.ma/code/d3-cartogram/) - Cartograms with D3 & TopoJSON
 - [d3 geo projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections
+- [d3 geomap](http://d3-geomap.github.io/) - Library for creating geographic maps
 - [simple map](http://code.minnpost.com/simple-map-d3/) - Easy choropleth style maps 
 
 ##### Third Party
