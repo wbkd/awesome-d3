@@ -18,6 +18,7 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 - [D4](http://visible.io/) - reusable charts DSL
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
 - [firespray](https://github.com/boundary/firespray) - Streaming charts
+- [Gantt-Chart](https://github.com/dk8996/Gantt-Chart) - Gantt chart library
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [micropolar](http://micropolar.org/) - A polar chart library 
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components
