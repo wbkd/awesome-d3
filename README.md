@@ -33,6 +33,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [techanjs](http://techanjs.org/) - A visual, stock charting and technical analysis 
 - [uvCharts](http://imaginea.github.io/uvCharts/index.html)  - Supports lots of different chart types
 - [vega](http://trifacta.github.io/vega/) - A visualization grammar
+- [xkcdgraphs](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs
 
 ##### Third Party
 
