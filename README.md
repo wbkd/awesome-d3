@@ -66,6 +66,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [kodama](http://darkmarmot.github.io/kodama/) - Tooltip Plugin
 - [textures](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
+- [filtering](http://square.github.io/crossfilter/) = Fast Multidimensional filtering for coordinated views
 
 
 ## Miscellaneous
