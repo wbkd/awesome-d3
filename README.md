@@ -27,6 +27,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [plottablejs](http://plottablejs.org/) - Flexible, interactive charts for the web
 - [pykcharts](http://pykcharts.com/) - Themeable, responsive, modular, real-time charts and 109+ maps
 - [radar chart](https://github.com/alangrafu/radar-chart-d3) - Radar chart module 
+- [rickshaw](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [techanjs](http://techanjs.org/) - A visual, stock charting and technical analysis 
