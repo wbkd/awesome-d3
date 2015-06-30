@@ -51,6 +51,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [d3 geo projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections
 - [d3 geomap](http://d3-geomap.github.io/) - Library for creating geographic maps
 - [simple map](http://code.minnpost.com/simple-map-d3/) - Easy choropleth style maps 
+- [mapsense.js](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
 
 ##### Third Party
 
