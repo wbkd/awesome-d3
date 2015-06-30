@@ -3,6 +3,8 @@
 This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and utilities.
 <br />We decided not to list tutorials, ressources or concepts here, because there is already a **[very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials)** out there you can check out and contribute to.
 
+Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Möller](http://www.twitter.com/chrtze) of [webkid.io](http://www.webkid.io)
+
 
 ## Charts
 
