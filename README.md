@@ -66,10 +66,11 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [kodama](http://darkmarmot.github.io/kodama/) - Tooltip Plugin
 - [textures](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
-
+- [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns 
 
 ## Miscellaneous
 
 - [dragit](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics
 - [d3moji](https://github.com/mathisonian/d3moji) - First class emoji support
 - [d3-cloud](https://github.com/jasondavies/d3-cloud) - Word clouds 
+- [graph-scroll](http://1wheel.github.io/graph-scroll/) - Simple scrolling events for d3 graphics
