@@ -1,7 +1,7 @@
 # Awesome D3
 
 This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and utilities.
-<br />We decided not to list tutorials, ressources or concepts here, because there is already a **[very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials)** out there you can check out and contribute to.
+<br />We decided not to list tutorials, resources or concepts here, because there is already a **[very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials)** out there you can check out and contribute to.
 
 Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Möller](http://www.twitter.com/chrtze) of [webkid.io](http://www.webkid.io)
 
@@ -17,7 +17,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [d3.chart](http://misoproject.com/d3-chart/) - Framework for building reusable charts
 - [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting
-- [D4](http://visible.io/) - reusable charts DSL
+- [D4](http://visible.io/) - Re-usable charts DSL
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
 - [firespray](https://github.com/boundary/firespray) - Streaming charts
 - [Gantt-Chart](https://github.com/dk8996/Gantt-Chart) - Gantt chart library
@@ -37,9 +37,9 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 ##### Third Party
 
 - [angular-nvd3](http://krispo.github.io/angular-nvd3) - NVd3 for Angular
-- [ember charts](http://addepar.github.io/#/ember-charts/overview) - charts for Ember
-- [n3-charts](http://n3-charts.github.io/line-chart/#/) - charts for Angular
-- [react-d3](https://github.com/esbullington/react-d3) - charts for React
+- [ember charts](http://addepar.github.io/#/ember-charts/overview) - Charts for Ember
+- [n3-charts](http://n3-charts.github.io/line-chart/#/) - Charts for Angular
+- [react-d3](https://github.com/esbullington/react-d3) - Charts for React
 
 ## Maps
 
@@ -60,10 +60,10 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 
 - [d3-extended](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
 - [d3-kit](https://github.com/twitter/d3kit) - A set of tools to speed D3 related project development
-- [d3-plus](http://d3plus.org/) - an extension to the D3 library that allows fast and easy creation of data visualizations
+- [d3-plus](http://d3plus.org/) - An extension to the D3 library that allows fast and easy creation of data visualizations
 - [d3-helpers](https://github.com/bahmutov/d3-helpers) - Little utility functions
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltips helper
-- [d3.slider](https://github.com/turban/d3.slider) - jquery UI inspired slider
+- [d3.slider](https://github.com/turban/d3.slider) - jQuery UI inspired slider
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [kodama](http://darkmarmot.github.io/kodama/) - Tooltip Plugin
 - [textures](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
