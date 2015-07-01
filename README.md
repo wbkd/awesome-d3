@@ -23,6 +23,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [Gantt-Chart](https://github.com/dk8996/Gantt-Chart) - Gantt chart library
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [micropolar](http://micropolar.org/) - A polar chart library 
+- [mpld3](http://mpld3.github.io/) - Export your matplotlib graphics to the d3
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components
 - [plottablejs](http://plottablejs.org/) - Flexible, interactive charts for the web
 - [pykcharts](http://pykcharts.com/) - Themeable, responsive, modular, real-time charts and 109+ maps
