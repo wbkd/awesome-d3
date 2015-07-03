@@ -79,3 +79,4 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [d3moji](https://github.com/mathisonian/d3moji) - First class emoji support
 - [d3-cloud](https://github.com/jasondavies/d3-cloud) - Word clouds 
 - [graph-scroll](http://1wheel.github.io/graph-scroll/) - Simple scrolling events for d3 graphics
+- [codeflower](http://www.redotheweb.com/CodeFlower/) - Bird's eye view of the whole code
