@@ -11,6 +11,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [bullet chart](https://github.com/d3/d3-plugins/tree/master/bullet) - Bullet chart
 - [cirrus.js](http://planet-os.github.io/cirrusjs/) - A multi-renderer charts library
 - [cubism](https://square.github.io/cubism/) - Time Series Visualization
+- [cola.js](http://marvl.infotech.monash.edu/webcola/) - Layout for graph visualization and exploration
 - [c3](http://c3js.org/) - Reusable chart library
 - [dc](http://dc-js.github.io/dc.js/) - For heavy amounts of data
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics
