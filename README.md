@@ -66,9 +66,9 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 ## Utils
 
 - [d3-extended](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
+- [d3-helpers](https://github.com/bahmutov/d3-helpers) - Little utility functions
 - [d3-kit](https://github.com/twitter/d3kit) - A set of tools to speed D3 related project development
 - [d3-plus](http://d3plus.org/) - An extension to the D3 library that allows fast and easy creation of data visualizations
-- [d3-helpers](https://github.com/bahmutov/d3-helpers) - Little utility functions
 - [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns 
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltips helper
 - [d3.slider](https://github.com/turban/d3.slider) - jQuery UI inspired slider
@@ -82,5 +82,6 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [dragit](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics
 - [d3moji](https://github.com/mathisonian/d3moji) - First class emoji support
 - [d3-cloud](https://github.com/jasondavies/d3-cloud) - Word clouds 
+- [d3-context-menu](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
 - [graph-scroll](http://1wheel.github.io/graph-scroll/) - Simple scrolling events for d3 graphics
 - [codeflower](http://www.redotheweb.com/CodeFlower/) - Bird's eye view of the whole code
