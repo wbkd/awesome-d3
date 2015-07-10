@@ -22,6 +22,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [D4](http://visible.io/) - Re-usable charts DSL
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
 - [firespray](https://github.com/boundary/firespray) - Streaming charts
+- [forest-d3](https://github.com/robinfhu/forest-d3) - A time series charting library
 - [Gantt-Chart](https://github.com/dk8996/Gantt-Chart) - Gantt chart library
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [micropolar](http://micropolar.org/) - A polar chart library 
