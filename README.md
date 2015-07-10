@@ -42,6 +42,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 ##### Third Party
 
 - [angular-nvd3](http://krispo.github.io/angular-nvd3) - NVd3 for Angular
+- [d3 simplecharts](https://wordpress.org/plugins/d3-simplecharts/) - A d3 wordpress plugin
 - [ember charts](http://addepar.github.io/#/ember-charts/overview) - Charts for Ember
 - [n3-charts](http://n3-charts.github.io/line-chart/#/) - Charts for Angular
 - [react-d3](https://github.com/esbullington/react-d3) - Charts for React
