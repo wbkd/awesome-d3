@@ -68,6 +68,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [d3-extended](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
 - [d3-helpers](https://github.com/bahmutov/d3-helpers) - Little utility functions
 - [d3-kit](https://github.com/twitter/d3kit) - A set of tools to speed D3 related project development
+- [d3-legend](http://d3-legend.susielu.com/) - Legend helper
 - [d3-plus](http://d3plus.org/) - An extension to the D3 library that allows fast and easy creation of data visualizations
 - [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns 
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltips helper
