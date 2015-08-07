@@ -1,4 +1,4 @@
-# Awesome D3
+# Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and utilities.
 <br />We decided not to list tutorials, resources or concepts here, because there is already a **[very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials)** out there you can check out and contribute to.
