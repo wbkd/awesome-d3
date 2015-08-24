@@ -80,6 +80,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
 - [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns 
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltips helper
+- [d3-trail](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements with d3
 - [d3.slider](https://github.com/turban/d3.slider) - jQuery UI inspired slider
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [kodama](http://darkmarmot.github.io/kodama/) - Tooltip Plugin
