@@ -42,6 +42,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 ##### Third Party
 
 - [angular-nvd3](http://krispo.github.io/angular-nvd3) - NVd3 for Angular
+- [d3act](https://github.com/AnSavvides/d3act) - d3 with React
 - [d3 simplecharts](https://wordpress.org/plugins/d3-simplecharts/) - A d3 wordpress plugin
 - [ember charts](http://addepar.github.io/#/ember-charts/overview) - Charts for Ember
 - [n3-charts](http://n3-charts.github.io/line-chart/#/) - Charts for Angular
@@ -82,6 +83,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltips helper
 - [d3-trail](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements with d3
 - [d3.slider](https://github.com/turban/d3.slider) - jQuery UI inspired slider
+- [d3.svg.ribbon](https://github.com/emeeks/d3.svg.ribbon) - An area interpolator
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [kodama](http://darkmarmot.github.io/kodama/) - Tooltip Plugin
 - [textures](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
