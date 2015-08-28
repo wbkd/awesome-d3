@@ -17,8 +17,8 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics
 - [d3.chart](http://misoproject.com/d3-chart/) - Framework for building reusable charts
 - [d3fc](http://scottlogic.github.io/d3fc/) - A collection of interactive chart components
-- [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
 - [d3panels](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing
+- [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting
 - [D4](http://visible.io/) - Re-usable charts DSL
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
