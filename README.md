@@ -52,7 +52,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 
 ##### Reusable Chart Frameworks
 
-- [d3.graph](http://misoproject.com/d3-chart/) - Part of Miso
+- [d3.chart](http://misoproject.com/d3-chart/) - Part of Miso
 - [kotojs](http://kotojs.org/) - ES6 based framework
 
 ## Maps
