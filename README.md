@@ -29,6 +29,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [micropolar](http://micropolar.org/) - A polar chart library 
 - [mpld3](http://mpld3.github.io/) - Export matplotlib graphics to work in the Browser
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components
+- [peek](http://mtmacdonald.github.io/peek) - Object-oriented chart library
 - [plottablejs](http://plottablejs.org/) - Flexible, interactive charts for the web
 - [pykcharts](http://pykcharts.com/) - Themeable, responsive, modular, real-time charts and 109+ maps
 - [radar chart](https://github.com/alangrafu/radar-chart-d3) - Radar chart module 
