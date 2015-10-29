@@ -94,6 +94,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 
 ## Miscellaneous
 
+- [codeflower](http://www.redotheweb.com/CodeFlower/) - Bird's eye view of the whole code
 - [comic.js](https://github.com/balint42/comic.js) - Cartoon style drawing (works also for canvas, Raphael & SVG.js)
 - [dragit](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics
 - [d3moji](https://github.com/mathisonian/d3moji) - First class emoji support
@@ -102,4 +103,4 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [d3-resume](https://github.com/glena/d3-resume) - Resume visualizer
 - [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
 - [graph-scroll](http://1wheel.github.io/graph-scroll/) - Simple scrolling events for d3 graphics
-- [codeflower](http://www.redotheweb.com/CodeFlower/) - Bird's eye view of the whole code
+- [jsdocs2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
