@@ -24,6 +24,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting
 - [D4](http://visible.io/) - Re-usable charts DSL
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
+- [EventDrops](https://github.com/marmelab/EventDrops) - A time based/event series interactive visualization
 - [fancycharts](https://github.com/ahoiin/Fancycharts.js) - Library to visualize percentage values
 - [firespray](https://github.com/boundary/firespray) - Streaming charts
 - [forest-d3](https://github.com/robinfhu/forest-d3) - A time series charting library
