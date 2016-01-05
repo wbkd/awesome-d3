@@ -22,6 +22,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [d3panels](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing
 - [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting
+- [d3 timeseries](http://mcaule.github.io/d3-timeseries/) - Time series charting library
 - [D4](http://visible.io/) - Re-usable charts DSL
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
 - [EventDrops](https://github.com/marmelab/EventDrops) - A time based/event series interactive visualization
@@ -91,6 +92,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [d3-trail](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements with d3
 - [d3.slider](https://github.com/turban/d3.slider) - jQuery UI inspired slider
 - [d3.svg.ribbon](https://github.com/emeeks/d3.svg.ribbon) - An area interpolator
+- [d3-nelson-rules](https://github.com/kiernanmcgowan/d3-nelson-rules) - Utility to apply nelsons rules of process control to a set of data
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [kodama](http://darkmarmot.github.io/kodama/) - Tooltip Plugin
 - [textures](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
