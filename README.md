@@ -13,6 +13,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [cubism](https://square.github.io/cubism/) - Time Series Visualization
 - [cola.js](http://marvl.infotech.monash.edu/webcola/) - Layout for graph visualization and exploration
 - [c3](http://c3js.org/) - Reusable chart library
+- [dagre-d3](https://github.com/cpettitt/dagre-d3) - Layout directed graphs on the client-side
 - [dc](http://dc-js.github.io/dc.js/) - For heavy amounts of data
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics
 - [d3.chart](http://misoproject.com/d3-chart/) - Framework for building reusable charts
