@@ -82,6 +82,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 
 ## Utils
 
+- [chroniton](https://github.com/tmcw/chroniton) - Time slider input for time-based visualizations and data
 - [d3-extended](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
 - [d3-helpers](https://github.com/bahmutov/d3-helpers) - Little utility functions
 - [d3-kit](https://github.com/twitter/d3kit) - A set of tools to speed D3 related project development
@@ -97,7 +98,6 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [kodama](http://darkmarmot.github.io/kodama/) - Tooltip Plugin
 - [textures](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
-- [chroniton](https://github.com/tmcw/chroniton) - Time slider input for time-based visualizations and data
 
 ## Miscellaneous
 
