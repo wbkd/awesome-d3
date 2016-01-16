@@ -17,7 +17,8 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [dc](http://dc-js.github.io/dc.js/) - For heavy amounts of data
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics
 - [d3.chart](http://misoproject.com/d3-chart/) - Framework for building reusable charts
-- [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data.
+- [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
+- [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart 
 - [d3fc](http://scottlogic.github.io/d3fc/) - A collection of interactive chart components
 - [D3Funnel](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library
 - [d3panels](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing
