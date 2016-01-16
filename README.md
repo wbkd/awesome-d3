@@ -94,6 +94,7 @@ Curators: [Moritz Klack](http://www.twitter.com/moklick) and [Christopher Mölle
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltips helper
 - [d3-trail](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements with d3
 - [d3.slider](https://github.com/turban/d3.slider) - jQuery UI inspired slider
+- [d3.svg.circularbrush](https://github.com/emeeks/d3.svg.circularbrush) - A brush for selecting cyclical data
 - [d3.svg.ribbon](https://github.com/emeeks/d3.svg.ribbon) - An area interpolator
 - [d3-nelson-rules](https://github.com/kiernanmcgowan/d3-nelson-rules) - Utility to apply nelsons rules of process control to a set of data
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
