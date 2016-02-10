@@ -57,7 +57,8 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [ember charts](http://addepar.github.io/#/ember-charts/overview) - Charts for Ember
 - [n3-charts](http://n3-charts.github.io/line-chart/#/) - Charts for Angular
 - [react-d3](https://github.com/esbullington/react-d3) - Charts for React
-- [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components for React
+- [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components
+- [react-stockcharts](http://rrag.github.io/react-stockcharts) - Highly customizable stock charts
 - [recharts](http://recharts.org/) - Re-designed charting library built with React
 - [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 
