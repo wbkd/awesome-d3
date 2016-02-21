@@ -23,6 +23,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [D3Funnel](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library
 - [d3panels](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing
 - [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
+- [d3-timeline](https://github.com/commodityvectors/d3-timeline) - responsive timeline charts
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting
 - [d3 timeseries](http://mcaule.github.io/d3-timeseries/) - Time series charting library
 - [D4](http://visible.io/) - Re-usable charts DSL
