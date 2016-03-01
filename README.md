@@ -107,6 +107,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 
 ## Miscellaneous
 
+- [chess-dataviz](http://ebemunk.github.io/chess-dataviz/) - Chess dataviz library
 - [codeflower](http://www.redotheweb.com/CodeFlower/) - Bird's eye view of the whole code
 - [comic.js](https://github.com/balint42/comic.js) - Cartoon style drawing (works also for canvas, Raphael & SVG.js)
 - [dragit](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics
