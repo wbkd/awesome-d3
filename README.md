@@ -18,7 +18,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics
 - [d3.chart](http://misoproject.com/d3-chart/) - Framework for building reusable charts
 - [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
-- [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart 
+- [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart
 - [d3fc](http://scottlogic.github.io/d3fc/) - A collection of interactive chart components
 - [D3Funnel](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library
 - [d3panels](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing
@@ -27,6 +27,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting
 - [d3 timeseries](http://mcaule.github.io/d3-timeseries/) - Time series charting library
 - [D4](http://visible.io/) - Re-usable charts DSL
+- [dTree](https://github.com/ErikGartner/dTree) - Family tree library
 - [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
 - [EventDrops](https://github.com/marmelab/EventDrops) - A time based/event series interactive visualization
 - [fancycharts](https://github.com/ahoiin/Fancycharts.js) - Library to visualize percentage values
@@ -34,18 +35,18 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [forest-d3](https://github.com/robinfhu/forest-d3) - A time series charting library
 - [Gantt-Chart](https://github.com/dk8996/Gantt-Chart) - Gantt chart library
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
-- [micropolar](http://micropolar.org/) - A polar chart library 
+- [micropolar](http://micropolar.org/) - A polar chart library
 - [mpld3](http://mpld3.github.io/) - Export matplotlib graphics to work in the Browser
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components
 - [peek](http://mtmacdonald.github.io/peek) - Object-oriented chart library
 - [plotly](https://github.com/plotly/plotly.js/) - High level charting library
 - [plottablejs](http://plottablejs.org/) - Flexible, interactive charts for the web
 - [pykcharts](http://pykcharts.com/) - Themeable, responsive, modular, real-time charts and 109+ maps
-- [radar chart](https://github.com/alangrafu/radar-chart-d3) - Radar chart module 
+- [radar chart](https://github.com/alangrafu/radar-chart-d3) - Radar chart module
 - [rickshaw](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](https://www.taucharts.com/) - Charts with a focus on design and flexibility
-- [techanjs](http://techanjs.org/) - A visual, stock charting and technical analysis 
+- [techanjs](http://techanjs.org/) - A visual, stock charting and technical analysis
 - [uvCharts](http://imaginea.github.io/uvCharts/index.html)  - Supports lots of different chart types
 - [vega](http://trifacta.github.io/vega/) - A visualization grammar
 - [vizabi](https://github.com/Gapminder/vizabi) - A framework for building visual data exploration tools
@@ -78,7 +79,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 cartogram](http://prag.ma/code/d3-cartogram/) - Cartograms with D3 & TopoJSON
 - [d3 geo projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections
 - [d3 geomap](http://d3-geomap.github.io/) - Library for creating geographic maps
-- [simple map](http://code.minnpost.com/simple-map-d3/) - Easy choropleth style maps 
+- [simple map](http://code.minnpost.com/simple-map-d3/) - Easy choropleth style maps
 - [mapmap.js](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 - [mapsense.js](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
 
@@ -97,7 +98,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-Labeler](https://github.com/tinker10/D3-Labeler) - Plug-in for automatic label placement
 - [d3-legend](http://d3-legend.susielu.com/) - Legend helper
 - [d3-plus](http://d3plus.org/) - An extension to the D3 library that allows fast and easy creation of data visualizations
-- [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns 
+- [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltips helper
 - [d3-trail](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements with d3
 - [d3.slider](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider
@@ -115,7 +116,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [comic.js](https://github.com/balint42/comic.js) - Cartoon style drawing (works also for canvas, Raphael & SVG.js)
 - [dragit](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics
 - [d3moji](https://github.com/mathisonian/d3moji) - First class emoji support
-- [d3-cloud](https://github.com/jasondavies/d3-cloud) - Word clouds 
+- [d3-cloud](https://github.com/jasondavies/d3-cloud) - Word clouds
 - [d3-context-menu](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
 - [d3-resume](https://github.com/glena/d3-resume) - Resume visualizer
 - [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
