@@ -107,6 +107,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-nelson-rules](https://github.com/kiernanmcgowan/d3-nelson-rules) - Utility to apply nelsons rules of process control to a set of data
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [kodama](http://darkmarmot.github.io/kodama/) - Tooltip Plugin
+- [swoopyarrows](https://github.com/bizweekgraphics/swoopyarrows) - Plugin to create swoopy arrows with d3
 - [textures](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
 
 ## Miscellaneous
