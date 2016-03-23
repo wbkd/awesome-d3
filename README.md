@@ -124,3 +124,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
 - [graph-scroll](http://1wheel.github.io/graph-scroll/) - Simple scrolling events for d3 graphics
 - [jsdocs2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
+
+## Code Editors
+- [D3.js snippets for Sublime Text 2](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2) - D3 snippets for Sublime Text 2
+- [Atom D3 snippets](https://github.com/martgnz/d3-snippets) - An Atom package with d3 snippets
