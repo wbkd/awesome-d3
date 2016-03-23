@@ -126,5 +126,5 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [jsdocs2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
 
 ## Code Editors
-- [D3.js snippets for Sublime Text 2](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2) - D3 snippets for Sublime Text 2
+- [D3.js snippets for Sublime Text 2](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2) - A Sublime Text 2 package with d3 snippets
 - [Atom D3 snippets](https://github.com/martgnz/d3-snippets) - An Atom package with d3 snippets
