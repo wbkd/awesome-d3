@@ -17,13 +17,14 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [dc](http://dc-js.github.io/dc.js/) - For heavy amounts of data
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics
 - [d3.chart](http://misoproject.com/d3-chart/) - Framework for building reusable charts
+- [d3.chart.sankey](https://github.com/q-m/d3.chart.sankey) - Reusable D3 Sankey diagram
 - [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
 - [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart
+- [d3-timeline](https://github.com/commodityvectors/d3-timeline) - responsive timeline charts
 - [d3fc](http://scottlogic.github.io/d3fc/) - A collection of interactive chart components
 - [D3Funnel](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library
 - [d3panels](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing
 - [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
-- [d3-timeline](https://github.com/commodityvectors/d3-timeline) - responsive timeline charts
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting
 - [d3 timeseries](http://mcaule.github.io/d3-timeseries/) - Time series charting library
 - [D4](http://visible.io/) - Re-usable charts DSL
