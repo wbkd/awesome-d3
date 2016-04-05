@@ -127,6 +127,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-context-menu](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
 - [d3-resume](https://github.com/glena/d3-resume) - Resume visualizer
 - [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
+- [d3plus](http://d3plus.org/) - An extension to D3 that allows fast and easy creation of data visualizations
 - [graph-scroll](http://1wheel.github.io/graph-scroll/) - Simple scrolling events for d3 graphics
 - [jsdocs2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
 
