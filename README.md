@@ -29,7 +29,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 timeseries](http://mcaule.github.io/d3-timeseries/) - Time series charting library
 - [D4](http://visible.io/) - Re-usable charts DSL
 - [dTree](https://github.com/ErikGartner/dTree) - Family tree library
-- [epoch](http://fastly.github.io/epoch) - A general purpose, real-time visualization library
+- [epoch](http://epochjs.github.io/epoch/) - A general purpose, real-time visualization library
 - [EventDrops](https://github.com/marmelab/EventDrops) - A time based/event series interactive visualization
 - [fancycharts](https://github.com/ahoiin/Fancycharts.js) - Library to visualize percentage values
 - [firespray](https://github.com/boundary/firespray) - Streaming charts
