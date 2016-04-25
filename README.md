@@ -128,6 +128,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-resume](https://github.com/glena/d3-resume) - Resume visualizer
 - [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
 - [d3plus](http://d3plus.org/) - An extension to D3 that allows fast and easy creation of data visualizations
+- [d3plus-text](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 - [graph-scroll](http://1wheel.github.io/graph-scroll/) - Simple scrolling events for d3 graphics
 - [jsdocs2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
 
