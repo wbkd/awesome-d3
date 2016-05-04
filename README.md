@@ -83,6 +83,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [simple map](http://code.minnpost.com/simple-map-d3/) - Easy choropleth style maps
 - [mapmap.js](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 - [mapsense.js](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
+- [spam](https://github.com/newsappsio/spam) - Create maps with D3 and Canvas, easily
 
 ##### Third Party
 
