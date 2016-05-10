@@ -132,6 +132,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3plus-text](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 - [graph-scroll](http://1wheel.github.io/graph-scroll/) - Simple scrolling events for d3 graphics
 - [jsdocs2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
+- [netvis](https://github.com/dborzov/netvis) - Tool to visualize network communication for arbitrary protocols
 
 ## Code Editors
 - [D3.js snippets for Sublime Text 2](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2) - A Sublime Text 2 package with d3 snippets
