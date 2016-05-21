@@ -84,6 +84,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [mapsense.js](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
 - [simple map](http://code.minnpost.com/simple-map-d3/) - Easy choropleth style maps
 - [spam](https://github.com/newsappsio/spam) - Create maps with D3 and Canvas, easily
+- [d3 exploder](http://bsouthga.github.io/d3-exploder/) - Lets you easily move and resize geographic features
 
 ##### Third Party
 
