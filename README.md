@@ -78,13 +78,13 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [composite-projections](http://rveciana.github.io/d3-composite-projections/) - Set of projections for showing countries' distant lands together
 - [datamaps](http://datamaps.github.io/) - Customizable map visualizations in one file
 - [d3 cartogram](http://prag.ma/code/d3-cartogram/) - Cartograms with D3 & TopoJSON
+- [d3 exploder](http://bsouthga.github.io/d3-exploder/) - Lets you easily move and resize geographic features
 - [d3 geo projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections
 - [d3 geomap](http://d3-geomap.github.io/) - Library for creating geographic maps
 - [mapmap.js](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 - [mapsense.js](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
 - [simple map](http://code.minnpost.com/simple-map-d3/) - Easy choropleth style maps
 - [spam](https://github.com/newsappsio/spam) - Create maps with D3 and Canvas, easily
-- [d3 exploder](http://bsouthga.github.io/d3-exploder/) - Lets you easily move and resize geographic features
 
 ##### Third Party
 
