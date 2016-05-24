@@ -134,6 +134,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3plus-text](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 - [graph-scroll](http://1wheel.github.io/graph-scroll/) - Simple scrolling events for d3 graphics
 - [jsdocs2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
+- [mermaid](http://knsv.github.io/mermaid/) - Generation of diagrams and flowcharts from text in a similar manner as markdown
 - [netvis](https://github.com/dborzov/netvis) - Tool to visualize network communication for arbitrary protocols
 
 ## Code Editors
