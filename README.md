@@ -113,6 +113,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-peaks](https://github.com/efekarakus/d3-peaks) - Find peaks in a noisy signal
 - [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Snippets and conventions for d3
 - [d3-xray](http://www.vijithassar.com/d3-xray) - Bookmarklet which logs the results of the data joins as you mouse over
+- [iopctrl](http://iop.io/iopctrl) - Lib for making simple user interface controls
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [kodama](http://darkmarmot.github.io/kodama/) - Tooltip Plugin
 - [swoopyarrows](https://github.com/bizweekgraphics/swoopyarrows) - Plugin to create swoopy arrows with d3
