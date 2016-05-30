@@ -103,20 +103,21 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-Labeler](https://github.com/tinker10/D3-Labeler) - Plug-in for automatic label placement
 - [d3-legend](http://d3-legend.susielu.com/) - Legend helper
 - [d3-plus](http://d3plus.org/) - An extension to the D3 library that allows fast and easy creation of data visualizations
+- [d3-ring-note](https://github.com/armollica/d3-ring-note) - Plugin for placing circle and text annotations
 - [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltips helper
-- [d3-trail](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements with d3
+- [d3-trail](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements
 - [d3.slider](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider
 - [d3.svg.circularbrush](https://github.com/emeeks/d3.svg.circularbrush) - A brush for selecting cyclical data
 - [d3.svg.ribbon](https://github.com/emeeks/d3.svg.ribbon) - An area interpolator
 - [d3-nelson-rules](https://github.com/kiernanmcgowan/d3-nelson-rules) - Utility to apply nelsons rules of process control to a set of data
 - [d3-peaks](https://github.com/efekarakus/d3-peaks) - Find peaks in a noisy signal
-- [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Snippets and conventions for d3
+- [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Snippets and conventions
 - [d3-xray](http://www.vijithassar.com/d3-xray) - Bookmarklet which logs the results of the data joins as you mouse over
 - [iopctrl](http://iop.io/iopctrl) - Lib for making simple user interface controls
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [kodama](http://darkmarmot.github.io/kodama/) - Tooltip Plugin
-- [swoopyarrows](https://github.com/bizweekgraphics/swoopyarrows) - Plugin to create swoopy arrows with d3
+- [swoopyarrows](https://github.com/bizweekgraphics/swoopyarrows) - Plugin to create swoopy arrows
 - [swoopyDrag](https://github.com/1wheel/swoopy-drag) - Artisanal label placement for d3 graphics
 - [textures](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
 
@@ -133,11 +134,11 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
 - [d3plus](http://d3plus.org/) - An extension to D3 that allows fast and easy creation of data visualizations
 - [d3plus-text](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
-- [graph-scroll](http://1wheel.github.io/graph-scroll/) - Simple scrolling events for d3 graphics
+- [graph-scroll](http://1wheel.github.io/graph-scroll/) - Simple scrolling events
 - [jsdocs2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
 - [mermaid](http://knsv.github.io/mermaid/) - Generation of diagrams and flowcharts from text in a similar manner as markdown
 - [netvis](https://github.com/dborzov/netvis) - Tool to visualize network communication for arbitrary protocols
 
 ## Code Editors
-- [D3.js snippets for Sublime Text 2](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2) - A Sublime Text 2 package with d3 snippets
-- [Atom D3 snippets](https://github.com/martgnz/d3-snippets) - An Atom package with d3 snippets
+- [Snippets for Atom](https://github.com/martgnz/d3-snippets)
+- [Snippets for Sublime Text 2](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2)
