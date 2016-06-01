@@ -98,22 +98,23 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3kit-timeline](http://kristw.github.io/d3kit-timeline/) - Timeline component that labels do not overlap
 - [d3-extended](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
 - [d3-helpers](https://github.com/bahmutov/d3-helpers) - Little utility functions
+- [d3-history](https://github.com/vijithassar/d3-history) - Proper URL bar history
 - [d3-iconarray](https://github.com/tomgp/d3-iconarray) - A plug-in for aligning elements in grids
 - [d3-kit](https://github.com/twitter/d3kit) - A set of tools to speed D3 related project development
 - [d3-Labeler](https://github.com/tinker10/D3-Labeler) - Plug-in for automatic label placement
 - [d3-legend](http://d3-legend.susielu.com/) - Legend helper
+- [d3-nelson-rules](https://github.com/kiernanmcgowan/d3-nelson-rules) - Utility to apply nelsons rules of process control to a set of data
+- [d3-peaks](https://github.com/efekarakus/d3-peaks) - Find peaks in a noisy signal
 - [d3-plus](http://d3plus.org/) - An extension to the D3 library that allows fast and easy creation of data visualizations
 - [d3-ring-note](https://github.com/armollica/d3-ring-note) - Plugin for placing circle and text annotations
 - [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltips helper
 - [d3-trail](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements
+- [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Snippets and conventions
+- [d3-xray](http://www.vijithassar.com/d3-xray) - Bookmarklet which logs the results of the data joins as you mouse over
 - [d3.slider](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider
 - [d3.svg.circularbrush](https://github.com/emeeks/d3.svg.circularbrush) - A brush for selecting cyclical data
 - [d3.svg.ribbon](https://github.com/emeeks/d3.svg.ribbon) - An area interpolator
-- [d3-nelson-rules](https://github.com/kiernanmcgowan/d3-nelson-rules) - Utility to apply nelsons rules of process control to a set of data
-- [d3-peaks](https://github.com/efekarakus/d3-peaks) - Find peaks in a noisy signal
-- [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Snippets and conventions
-- [d3-xray](http://www.vijithassar.com/d3-xray) - Bookmarklet which logs the results of the data joins as you mouse over
 - [iopctrl](http://iop.io/iopctrl) - Lib for making simple user interface controls
 - [jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [kodama](http://darkmarmot.github.io/kodama/) - Tooltip Plugin
