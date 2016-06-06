@@ -63,6 +63,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [n3-charts](http://n3-charts.github.io/line-chart/#/) - Charts for Angular
 - [react-d3](https://github.com/esbullington/react-d3) - Charts for React
 - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components
+- [react-d3-library](http://react-d3-library.github.io/) - Library that allows developers the ability to use D3 in React
 - [react-stockcharts](http://rrag.github.io/react-stockcharts) - Highly customizable stock charts
 - [react-vis](https://github.com/uber-common/react-vis) - A collection of react components to render common data visualization charts
 - [recharts](http://recharts.org/) - Re-designed charting library built with React
