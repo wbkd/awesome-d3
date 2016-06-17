@@ -18,6 +18,11 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics
 - [d3.chart](http://misoproject.com/d3-chart/) - Framework for building reusable charts
 - [d3.chart.sankey](https://github.com/q-m/d3.chart.sankey) - Reusable D3 Sankey diagram
+- [d3-bar](https://github.com/tj/d3-bar) - Bar chart
+- [d3-circle](https://github.com/tj/d3-circle) - Circle chart
+- [d3-dot](https://github.com/tj/d3-dot) - Dot chart
+- [d3-heatmap](https://github.com/tj/d3-heatmap) - Heatmap
+- [d3-line](https://github.com/tj/d3-line) - Line chart
 - [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
 - [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart
 - [d3-timeline](https://github.com/commodityvectors/d3-timeline) - responsive timeline charts
@@ -110,6 +115,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-ring-note](https://github.com/armollica/d3-ring-note) - Plugin for placing circle and text annotations
 - [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltips helper
+- [d3-tipy](https://github.com/tj/d3-tipy) - Tooltip helper module
 - [d3-trail](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements
 - [d3-xray](http://www.vijithassar.com/d3-xray) - Bookmarklet which logs the results of the data joins as you mouse over
 - [d3.slider](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider
