@@ -139,6 +139,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3moji](https://github.com/mathisonian/d3moji) - First class emoji support
 - [d3-cloud](https://github.com/jasondavies/d3-cloud) - Word clouds
 - [d3-context-menu](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
+- [d3-force-gravity](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion) using d3-force
 - [d3-resume](https://github.com/glena/d3-resume) - Resume visualizer
 - [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
 - [d3plus](http://d3plus.org/) - An extension to D3 that allows fast and easy creation of data visualizations
