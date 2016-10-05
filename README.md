@@ -104,6 +104,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 
 - [chroniton](https://github.com/tmcw/chroniton) - Time slider input for time-based visualizations and data
 - [d3kit-timeline](http://kristw.github.io/d3kit-timeline/) - Timeline component that labels do not overlap
+- [d3scription](https://github.com/GlobalWebIndex/d3scription) - Tooltip with window edge collision detection
 - [d3-extended](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
 - [d3-helpers](https://github.com/bahmutov/d3-helpers) - Little utility functions
 - [d3-history](https://github.com/vijithassar/d3-history) - Proper URL bar history
@@ -116,8 +117,8 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-plus](http://d3plus.org/) - An extension to the D3 library that allows fast and easy creation of data visualizations
 - [d3-ring-note](https://github.com/armollica/d3-ring-note) - Plugin for placing circle and text annotations
 - [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns
-- [d3-tip](https://github.com/Caged/d3-tip) - Tooltips helper
-- [d3-tipy](https://github.com/tj/d3-tipy) - Tooltip helper module
+- [d3-tip](https://github.com/Caged/d3-tip) - Tooltip helper
+- [d3-tipy](https://github.com/tj/d3-tipy) - Tooltip helper
 - [d3-trail](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements
 - [d3-xray](http://www.vijithassar.com/d3-xray) - Bookmarklet which logs the results of the data joins as you mouse over
 - [d3.slider](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider
