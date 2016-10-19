@@ -111,6 +111,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-iconarray](https://github.com/tomgp/d3-iconarray) - A plug-in for aligning elements in grids
 - [d3-kit](https://github.com/twitter/d3kit) - A set of tools to speed D3 related project development
 - [d3-Labeler](https://github.com/tinker10/D3-Labeler) - Plug-in for automatic label placement
+- [d3-lasso](https://github.com/skokenes/d3-lasso) - tag elements on a page by drawing a line over or around objects
 - [d3-legend](http://d3-legend.susielu.com/) - Legend helper
 - [d3-nelson-rules](https://github.com/kiernanmcgowan/d3-nelson-rules) - Utility to apply nelsons rules of process control to a set of data
 - [d3-peaks](https://github.com/efekarakus/d3-peaks) - Find peaks in a noisy signal
