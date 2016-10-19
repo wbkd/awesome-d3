@@ -117,6 +117,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-peaks](https://github.com/efekarakus/d3-peaks) - Find peaks in a noisy signal
 - [d3-plus](http://d3plus.org/) - An extension to the D3 library that allows fast and easy creation of data visualizations
 - [d3-ring-note](https://github.com/armollica/d3-ring-note) - Plugin for placing circle and text annotations
+- [d3-scale-cluster](https://github.com/schnerd/d3-scale-cluster) - Scale that clusters data into discrete groups
 - [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltip helper
 - [d3-tipy](https://github.com/tj/d3-tipy) - Tooltip helper
