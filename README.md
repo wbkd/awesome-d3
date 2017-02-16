@@ -19,6 +19,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3.chart](http://misoproject.com/d3-chart/) - Framework for building reusable charts
 - [d3.chart.sankey](https://github.com/q-m/d3.chart.sankey) - Reusable D3 Sankey diagram
 - [d3-bar](https://github.com/tj/d3-bar) - Bar chart
+- [d3-bumps-chart](https://github.com/johnwalley/d3-bumps-chart) - Plugin for visualizing bumps charts
 - [d3-circle](https://github.com/tj/d3-circle) - Circle chart
 - [d3-dot](https://github.com/tj/d3-dot) - Dot chart
 - [d3-heatmap](https://github.com/tj/d3-heatmap) - Heatmap
