@@ -89,6 +89,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 exploder](http://bsouthga.github.io/d3-exploder/) - Lets you easily move and resize geographic features
 - [d3 geo projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections
 - [d3 geomap](http://d3-geomap.github.io/) - Library for creating geographic maps
+- [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) - Morphing geojson polygons into rectangles
 - [mapmap.js](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 - [mapsense.js](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
 - [maptable](https://github.com/Packet-Clearing-House/maptable) - Convert any dataset to a customizable set of visual components (Map, Filters, Table)
