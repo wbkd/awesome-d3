@@ -156,6 +156,9 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [mermaid](http://knsv.github.io/mermaid/) - Generation of diagrams and flowcharts from text in a similar manner as markdown
 - [netvis](https://github.com/dborzov/netvis) - Tool to visualize network communication for arbitrary protocols
 
+## Server side 
+- [d3-node](https://github.com/d3-node/d3-node) - Static chart and map generation 
+
 ## Code Editors
 - [Snippets for Atom](https://github.com/martgnz/d3-snippets)
 - [Snippets for Sublime Text 2](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2)
