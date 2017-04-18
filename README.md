@@ -137,6 +137,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [swoopyarrows](https://github.com/bizweekgraphics/swoopyarrows) - Plugin to create swoopy arrows
 - [swoopyDrag](https://github.com/1wheel/swoopy-drag) - Artisanal label placement for d3 graphics
 - [textures](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
+- [filtering](http://square.github.io/crossfilter/) = Fast Multidimensional filtering for coordinated views
 
 ## Miscellaneous
 
