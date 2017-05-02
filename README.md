@@ -64,6 +64,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 ##### Third Party
 
 - [angular-nvd3](http://krispo.github.io/angular-nvd3) - NVd3 for Angular
+- [britecharts](https://github.com/eventbrite/britecharts/) - Client-side reusable Charting Library based on D3.js v4
 - [d3act](https://github.com/AnSavvides/d3act) - d3 with React
 - [d3 simplecharts](https://wordpress.org/plugins/d3-simplecharts/) - A d3 wordpress plugin
 - [ember charts](http://addepar.github.io/#/ember-charts/overview) - Charts for Ember
