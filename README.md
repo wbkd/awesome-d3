@@ -76,6 +76,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [react-vis](https://github.com/uber-common/react-vis) - A collection of react components to render common data visualization charts
 - [recharts](http://recharts.org/) - Re-designed charting library built with React
 - [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
+- [vx](https://github.com/hshoff/vx) - Visualization components for React
 
 ##### Reusable Chart Frameworks
 
