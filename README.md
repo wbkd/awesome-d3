@@ -8,6 +8,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 
 ## Charts
 
+- [billboard](https://github.com/naver/billboard.js) - Re-usable easy interface JavaScript chart library, based on D3 v4+ (fork of C3)
 - [britecharts](https://github.com/eventbrite/britecharts/) - Client-side reusable Charting Library
 - [bullet chart](https://github.com/d3/d3-plugins/tree/master/bullet) - Bullet chart
 - [cirrus.js](http://planet-os.github.io/cirrusjs/) - A multi-renderer charts library
@@ -159,8 +160,8 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [mermaid](http://knsv.github.io/mermaid/) - Generation of diagrams and flowcharts from text in a similar manner as markdown
 - [netvis](https://github.com/dborzov/netvis) - Tool to visualize network communication for arbitrary protocols
 
-## Server side 
-- [d3-node](https://github.com/d3-node/d3-node) - Static chart and map generation 
+## Server side
+- [d3-node](https://github.com/d3-node/d3-node) - Static chart and map generation
 
 ## Code Editors
 - [Snippets for Atom](https://github.com/martgnz/d3-snippets)
