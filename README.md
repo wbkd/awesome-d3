@@ -112,6 +112,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3kit-timeline](http://kristw.github.io/d3kit-timeline/) - Timeline component that labels do not overlap
 - [d3scription](https://github.com/GlobalWebIndex/d3scription) - Tooltip with window edge collision detection
 - [d3-annotation](http://d3-annotation.susielu.com/) - Annotaion helper with built-in annotation types
+- [d3-area-label](https://github.com/curran/d3-area-label) - A library for placing labels in areas
 - [d3-component](https://github.com/curran/d3-component) - Lightweight component abstraction
 - [d3-extended](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
 - [d3-helpers](https://github.com/bahmutov/d3-helpers) - Little utility functions
