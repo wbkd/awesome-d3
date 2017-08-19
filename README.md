@@ -63,6 +63,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [uvCharts](http://imaginea.github.io/uvCharts/index.html)  - Supports lots of different chart types
 - [vega](http://trifacta.github.io/vega/) - A visualization grammar
 - [venn.js](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
+- [visavail](https://github.com/flrs/visavail) - Time data availability visualization
 - [vizabi](https://github.com/Gapminder/vizabi) - A framework for building visual data exploration tools
 - [xkcdgraphs](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs
 
