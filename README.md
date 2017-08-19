@@ -49,6 +49,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [micropolar](http://micropolar.org/) - A polar chart library
 - [mpld3](http://mpld3.github.io/) - Export matplotlib graphics to work in the Browser
+- [neo4jd3](https://github.com/eisman/neo4jd3) - Neo4j graph visualization
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components
 - [peek](http://mtmacdonald.github.io/peek) - Object-oriented chart library
 - [plotly](https://github.com/plotly/plotly.js/) - High level charting library
