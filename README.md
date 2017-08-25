@@ -62,6 +62,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [techanjs](http://techanjs.org/) - A visual, stock charting and technical analysis
 - [uvCharts](http://imaginea.github.io/uvCharts/index.html)  - Supports lots of different chart types
 - [vega](http://trifacta.github.io/vega/) - A visualization grammar
+- [vega-lite](https://vega.github.io/vega-lite/) - A high-level grammar of interactive graphics
 - [venn.js](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
 - [visavail](https://github.com/flrs/visavail) - Time data availability visualization
 - [vizabi](https://github.com/Gapminder/vizabi) - A framework for building visual data exploration tools
