@@ -75,6 +75,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 simplecharts](https://wordpress.org/plugins/d3-simplecharts/) - A d3 wordpress plugin
 - [ember charts](http://addepar.github.io/#/ember-charts/overview) - Charts for Ember
 - [n3-charts](http://n3-charts.github.io/line-chart/#/) - Charts for Angular
+- [nivo](https://github.com/plouc/nivo) - Supercharged dataviz components for React with isomorphic ability, [demo](http://nivo.rocks)
 - [react-d3](https://github.com/esbullington/react-d3) - Charts for React
 - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components
 - [react-d3-library](http://react-d3-library.github.io/) - Library that allows developers the ability to use D3 in React
