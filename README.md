@@ -84,7 +84,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [recharts](http://recharts.org/) - Re-designed charting library built with React
 - [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [vx](https://github.com/hshoff/vx) - Visualization components for React
-
+- [numberpicture](http://numberpicture.com/library) - Collection of React components for composing visualizations
 ##### Reusable Chart Frameworks
 
 - [d3.chart](http://misoproject.com/d3-chart/) - Part of Miso
