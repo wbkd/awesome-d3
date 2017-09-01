@@ -75,16 +75,18 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 simplecharts](https://wordpress.org/plugins/d3-simplecharts/) - A d3 wordpress plugin
 - [ember charts](http://addepar.github.io/#/ember-charts/overview) - Charts for Ember
 - [n3-charts](http://n3-charts.github.io/line-chart/#/) - Charts for Angular
-- [nivo](https://github.com/plouc/nivo) - Supercharged dataviz components for React with isomorphic ability, [demo](http://nivo.rocks)
+- [nivo](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability
+- [numberpicture](http://numberpicture.com/library) - Collection of React components for composing visualizations
 - [react-d3](https://github.com/esbullington/react-d3) - Charts for React
 - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components
 - [react-d3-library](http://react-d3-library.github.io/) - Library that allows developers the ability to use D3 in React
 - [react-stockcharts](http://rrag.github.io/react-stockcharts) - Highly customizable stock charts
 - [react-vis](https://github.com/uber-common/react-vis) - A collection of react components to render common data visualization charts
 - [recharts](http://recharts.org/) - Re-designed charting library built with React
+- [semiotic](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3
 - [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [vx](https://github.com/hshoff/vx) - Visualization components for React
-- [numberpicture](http://numberpicture.com/library) - Collection of React components for composing visualizations
+
 ##### Reusable Chart Frameworks
 
 - [d3.chart](http://misoproject.com/d3-chart/) - Part of Miso
