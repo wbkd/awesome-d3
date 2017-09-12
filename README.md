@@ -54,7 +54,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [peek](http://mtmacdonald.github.io/peek) - Object-oriented chart library
 - [plotly](https://github.com/plotly/plotly.js/) - High level charting library
 - [plottablejs](http://plottablejs.org/) - Flexible, interactive charts for the web
-- [pykcharts](http://pykcharts.com/) - Themeable, responsive, modular, real-time charts and 109+ maps
+- [pykcharts](https://pykih.com/products/pykCharts) - Themeable, responsive, modular, real-time charts and 109+ maps
 - [radar chart](https://github.com/alangrafu/radar-chart-d3) - Radar chart module
 - [rickshaw](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
@@ -102,6 +102,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 geo projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections
 - [d3 geomap](http://d3-geomap.github.io/) - Library for creating geographic maps
 - [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) - Morphing geojson polygons into rectangles
+- [earthjs.js](https://github.com/earthjs/earthjs) - Easy building orthographic globe, using D3v4 with SVG, Canvas & WebGL(Threejs) 
 - [mapmap.js](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 - [mapsense.js](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
 - [maptable](https://github.com/Packet-Clearing-House/maptable) - Convert any dataset to a customizable set of visual components (Map, Filters, Table)
