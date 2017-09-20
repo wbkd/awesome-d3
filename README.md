@@ -178,3 +178,25 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 ## Code Editors
 - [Snippets for Atom](https://github.com/martgnz/d3-snippets)
 - [Snippets for Sublime Text 2](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2)
+
+# Bl.ocks.org Profiles
+
+ * https://bl.ocks.org/1wheel
+ * https://bl.ocks.org/ColinEberhardt
+ * https://bl.ocks.org/HarryStevens
+ * https://bl.ocks.org/LuisSevillano
+ * https://bl.ocks.org/d3indepth
+ * https://bl.ocks.org/emeeks
+ * https://bl.ocks.org/enjalot
+ * https://bl.ocks.org/fil
+ * https://bl.ocks.org/mbostock
+ * https://bl.ocks.org/micahstubbs
+ * https://bl.ocks.org/nbremer
+ * https://bl.ocks.org/nitaku
+ * https://bl.ocks.org/susielu
+ * https://bl.ocks.org/sxywu
+ * https://bl.ocks.org/syntagmatic
+ * https://bl.ocks.org/tomshanley
+ * https://bl.ocks.org/vasturiano
+ * https://bl.ocks.org/veltman
+ * https://bl.ocks.org/zanarmstrong
