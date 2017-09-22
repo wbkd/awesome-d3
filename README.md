@@ -178,3 +178,25 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 ## Code Editors
 - [Snippets for Atom](https://github.com/martgnz/d3-snippets)
 - [Snippets for Sublime Text 2](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2)
+
+## Bl.ocks.org Profiles
+
+ * [Adam Pearce - 1wheel](https://bl.ocks.org/1wheel)
+ * [Colin Eberhardt - ColinEberhardt](https://bl.ocks.org/ColinEberhardt)
+ * [Harry Stevens - HarryStevens](https://bl.ocks.org/HarryStevens)
+ * [Luis Sevillano - LuisSevillano](https://bl.ocks.org/LuisSevillano)
+ * [Peter Cook - d3indepth](https://bl.ocks.org/d3indepth)
+ * [Elijah Meeks - emeeks](https://bl.ocks.org/emeeks)
+ * [Ian Johnson - enjalot](https://bl.ocks.org/enjalot)
+ * [Philippe Rivière - fil](https://bl.ocks.org/fil)
+ * [Mike Bostock - mbostock](https://bl.ocks.org/mbostock)
+ * [Micah Stubbs - micahstubbs](https://bl.ocks.org/micahstubbs)
+ * [Nadieh Bremer - nbremer](https://bl.ocks.org/nbremer)
+ * [Matteo Abrate - nitaku](https://bl.ocks.org/nitaku)
+ * [Susie Lu - susielu](https://bl.ocks.org/susielu)
+ * [Shirley Wu - sxywu](https://bl.ocks.org/sxywu)
+ * [Kai Chang - syntagmatic](https://bl.ocks.org/syntagmatic)
+ * [Tom Shanley - tomshanley](https://bl.ocks.org/tomshanley)
+ * [Vasco Asturiano - vasturiano](https://bl.ocks.org/vasturiano)
+ * [Noah Veltman - veltman](https://bl.ocks.org/veltman)
+ * [Zan Armstrong - zanarmstrong](https://bl.ocks.org/zanarmstrong)
