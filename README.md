@@ -18,6 +18,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [dagre-d3](https://github.com/cpettitt/dagre-d3) - Layout directed graphs on the client-side
 - [dc](http://dc-js.github.io/dc.js/) - For heavy amounts of data
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics
+- [d2b](http://www.d2bjs.org/) - Reusable chart library, using D3 v4+ and including support for axis, pie, sankey, sunburst charts and more 
 - [d3.chart](http://misoproject.com/d3-chart/) - Framework for building reusable charts
 - [d3.chart.sankey](https://github.com/q-m/d3.chart.sankey) - Reusable D3 Sankey diagram
 - [d3-bar](https://github.com/tj/d3-bar) - Bar chart
