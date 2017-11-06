@@ -142,6 +142,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltip helper
 - [d3-tipy](https://github.com/tj/d3-tipy) - Tooltip helper
+- [d3-tooltip](https://bumbeishvili.github.io/d3-tooltip/) -   Arrow shaped d3 tooltip with shadows, dinamic  content and easy customization options
 - [d3-trail](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements
 - [d3-xray](http://www.vijithassar.com/d3-xray) - Bookmarklet which logs the results of the data joins as you mouse over
 - [d3.slider](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider
