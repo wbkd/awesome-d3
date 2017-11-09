@@ -32,7 +32,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-horizon-chart](http://kmandov.github.io/d3-horizon-chart/) - Horizon charts module
 - [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart
 - [d3-timeline](https://github.com/commodityvectors/d3-timeline) - responsive timeline charts
-- [d3fc](http://scottlogic.github.io/d3fc/) - A collection of interactive chart components
+- [d3fc](https://d3fc.io/) - A collection of interactive chart components
 - [D3Funnel](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library
 - [d3panels](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing
 - [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
