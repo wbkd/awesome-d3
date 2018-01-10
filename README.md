@@ -15,7 +15,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [cubism](https://github.com/square/cubism) - Time Series Visualization
 - [WebCola](https://github.com/tgdwyer/WebCola) - Layout for graph visualization and exploration
 - [c3](https://github.com/c3js/c3) - Reusable chart library
-- [dagre-d3](https://github.com/cpettitt/dagre-d3) - Layout directed graphs on the client-side
+- [dagre-d3](https://github.com/dagrejs/dagre-d3) - Layout directed graphs on the client-side
 - [dc.js](https://github.com/dc-js/dc.js) - For heavy amounts of data
 - [dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics
 - [d2b](https://github.com/d2bjs/d2b) - Reusable chart library, using D3 v4+ and including support for axis, pie, sankey, sunburst charts and more
@@ -57,7 +57,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [peek](https://github.com/mtmacdonald/peek) - Object-oriented chart library
 - [plotly.js](https://github.com/plotly/plotly.js/) - High level charting library
 - [plottable](https://github.com/palantir/plottable) - Flexible, interactive charts for the web
-- [pykcharts](https://github.com/pykih/PykCharts.js) - Themeable, responsive, modular, real-time charts and 109+ maps
+- [Pykcharts.js](https://github.com/pykih/PykCharts.js) - Themeable, responsive, modular, real-time charts and 109+ maps
 - [radar-chart-d3](https://github.com/alangrafu/radar-chart-d3) - Radar chart module
 - [rickshaw](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
