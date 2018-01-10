@@ -57,7 +57,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [peek](https://github.com/mtmacdonald/peek) - Object-oriented chart library
 - [plotly.js](https://github.com/plotly/plotly.js/) - High level charting library
 - [plottable](https://github.com/palantir/plottable) - Flexible, interactive charts for the web
-- [Pykcharts.js](https://github.com/pykih/PykCharts.js) - Themeable, responsive, modular, real-time charts and 109+ maps
+- [PykCharts.js](https://github.com/pykih/PykCharts.js) - Themeable, responsive, modular, real-time charts and 109+ maps
 - [radar-chart-d3](https://github.com/alangrafu/radar-chart-d3) - Radar chart module
 - [rickshaw](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
