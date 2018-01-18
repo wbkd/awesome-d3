@@ -92,7 +92,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A mapping API that uses D3 geospatial functionality
 - [d3-composite-projections](https://github.com/rveciana/d3-composite-projections) - Projections for showing countries' distant lands together
 - [datamaps](https://github.com/markmarkoh/datamaps) - Customizable map visualizations in one file
-- [d3-cartogram](https://github.com/shawnbot/topogram) - Cartograms with D3 & TopoJSON
+- [d3-topogram](https://github.com/shawnbot/topogram) - Continuous area cartograms based on TopoJSON
 - [d3-exploder](https://github.com/bsouthga/d3-exploder) - Lets you easily move and resize geographic features
 - [d3-geo-projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections
 - [d3-geomap](https://github.com/yaph/d3-geomap) - Library for creating geographic maps
