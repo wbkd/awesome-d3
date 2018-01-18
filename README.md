@@ -171,8 +171,8 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-node](https://github.com/d3-node/d3-node) - Static chart and map generation
 
 ## Code Editors
-- [Snippets for Atom](https://github.com/martgnz/d3-snippets) - Snippets for Atom
-- [Snippets for Sublime Text 2](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2) - Snippets for Sublime
+- [d3-snippets](https://github.com/martgnz/d3-snippets) - Snippets for Atom
+- [d3-snippets-for-sublime-text-2](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2) - Snippets for Sublime
 - [d3Snippets](https://github.com/Ledragon/d3Snippets) - Snippets for VS Code
 
 ## Bl.ocks.org Profiles
