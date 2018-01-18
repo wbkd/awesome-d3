@@ -9,9 +9,9 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 ## Charts
 
 - [billboard.js](https://github.com/naver/billboard.js) - Re-usable chart library (fork of C3)
-- [britecharts](https://github.com/eventbrite/britecharts/) - Client-side reusable Charting Library
+- [britecharts](https://github.com/eventbrite/britecharts/) - Client-side reusable charting library
 - [cirrusjs](https://github.com/planet-os/cirrusjs) - A multi-renderer charts library
-- [cubism](https://github.com/square/cubism) - Time Series Visualization
+- [cubism](https://github.com/square/cubism) - Time series visualization
 - [WebCola](https://github.com/tgdwyer/WebCola) - Layout for graph visualization and exploration
 - [c3](https://github.com/c3js/c3) - Reusable chart library
 - [dagre-d3](https://github.com/dagrejs/dagre-d3) - Layout directed graphs on the client-side
