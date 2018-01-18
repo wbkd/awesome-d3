@@ -10,7 +10,6 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 
 - [billboard.js](https://github.com/naver/billboard.js) - Re-usable chart library (fork of C3)
 - [britecharts](https://github.com/eventbrite/britecharts/) - Client-side reusable Charting Library
-- [bullet chart](https://github.com/d3/d3-plugins/tree/master/bullet) - Bullet chart
 - [cirrusjs](https://github.com/planet-os/cirrusjs) - A multi-renderer charts library
 - [cubism](https://github.com/square/cubism) - Time Series Visualization
 - [WebCola](https://github.com/tgdwyer/WebCola) - Layout for graph visualization and exploration
@@ -59,7 +58,6 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [plottable](https://github.com/palantir/plottable) - Flexible, interactive charts for the web
 - [radar-chart-d3](https://github.com/alangrafu/radar-chart-d3) - Radar chart module
 - [rickshaw](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
-- [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](https://github.com/TargetProcess/tauCharts) - Charts with a focus on design and flexibility
 - [techan.js](https://github.com/andredumas/techan.js) - A visual, stock charting and technical analysis
 - [uvCharts](https://github.com/imaginea/uvCharts)  - Supports lots of different chart types
@@ -162,6 +160,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-force-gravity](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion)
 - [d3-resume](https://github.com/glena/d3-resume) - Resume visualizer
 - [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
+- [d3-plugins](https://github.com/d3/d3-plugins/) - Collection of plugins (sankey, bullet, hexbin, ...)
 - [d3plus-text](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 - [graph-scroll](https://github.com/1wheel/graph-scroll) - Simple scrolling events
 - [jsdoc2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
