@@ -75,7 +75,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-simpleCharts](https://github.com/mrBigJS/d3-simpleCharts) - A d3 wordpress plugin
 - [ember-charts](https://github.com/Addepar/ember-charts/) - Charts for Ember
 - [line-chart](https://github.com/n3-charts/line-chart) - Line chart module for Angular
-- [nivo](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability
+- [nivo](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability [bar, line, area, bubble, chord, heatmap]
 - [number-picture](https://github.com/finnfiddle/number-picture) - Collection of React components for composing visualizations
 - [react-d3](https://github.com/esbullington/react-d3) - Charts for React
 - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components
@@ -106,9 +106,9 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 
 ##### Third Party
 
-- [leaflet-d3](https://github.com/Asymmetrik/leaflet-d3) - Collection of plugins for using D3 with Leaflet
-- [react-d3-basic](https://github.com/react-d3/react-d3-basic) - Library For Building Composable And Declarative Maps
-- [Wikimaps-D3js Atlas](https://github.com/WikimapsAtlas/WikimapsAtlas-generator) - CLI to generate raster, topojson and svg maps
+- [leaflet-d3](https://github.com/Asymmetrik/leaflet-d3) - Collection of plugins for using D3 with Leaflet [map, geo]
+- [react-d3-basic](https://github.com/react-d3/react-d3-basic) - Library For Building Composable And Declarative Maps [map, geo]
+- [Wikimaps-D3js Atlas](https://github.com/WikimapsAtlas/WikimapsAtlas-generator) - CLI to generate raster, topojson and svg maps [map, geo]
 
 ## Utils
 
