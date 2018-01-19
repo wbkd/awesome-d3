@@ -8,15 +8,15 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 
 ## Charts
 
-- [billboard.js](https://github.com/naver/billboard.js) - Re-usable chart library (fork of C3)
-- [britecharts](https://github.com/eventbrite/britecharts/) - Client-side reusable charting library
-- [cirrusjs](https://github.com/planet-os/cirrusjs) - A multi-renderer charts library
+- [billboard.js](https://github.com/naver/billboard.js) - Re-usable chart library [bar, line, area, donut, pie, step]
+- [britecharts](https://github.com/eventbrite/britecharts/) - Client-side reusable charting library (bar, line, donut, sparkline, step)
+- [cirrusjs](https://github.com/planet-os/cirrusjs) - A multi-renderer charts library [area, line, stacked]
 - [cubism](https://github.com/square/cubism) - Time series visualization
 - [WebCola](https://github.com/tgdwyer/WebCola) - Layout for graph visualization and exploration
-- [c3](https://github.com/c3js/c3) - Reusable chart library
+- [c3](https://github.com/c3js/c3) - Reusable chart library [line, spline, step, area, stacked, bar, pie, donut]
 - [dagre-d3](https://github.com/dagrejs/dagre-d3) - Layout directed graphs on the client-side
 - [dc.js](https://github.com/dc-js/dc.js) - For heavy amounts of data
-- [dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics
+- [dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics [bubble, area, stacked]
 - [d2b](https://github.com/d2bjs/d2b) - Chart library for axis, pie, sankey, sunburst charts
 - [d3.chart](https://github.com/misoproject/d3.chart) - Framework for building reusable charts
 - [d3.chart.sankey](https://github.com/q-m/d3.chart.sankey) - Reusable D3 Sankey diagram
@@ -36,14 +36,14 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-funnel](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library
 - [d3panels](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing
 - [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
-- [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting
+- [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting [plot, timeline, bar, histogram, pie]
 - [d3-timeseries](https://github.com/mcaule/d3-timeseries) - Time series charting library
 - [D4](https://github.com/heavysixer/d4) - Re-usable charts DSL
 - [dTree](https://github.com/ErikGartner/dTree) - Family tree library
 - [epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library
 - [EventDrops](https://github.com/marmelab/EventDrops) - A time based/event series interactive visualization
 - [Fancycharts.js](https://github.com/ahoiin/Fancycharts.js) - Library to visualize percentage values
-- [firespray](https://github.com/boundary/firespray) - Streaming charts
+- [firespray](https://github.com/boundary/firespray) - Streaming charts [bar, line, stacked]
 - [forest-d3](https://github.com/robinfhu/forest-d3) - A time series charting library
 - [Gantt-Chart](https://github.com/dk8996/Gantt-Chart) - Gantt chart library
 - [insights](https://github.com/ignacioola/insights) -  Library to visualize and navigate graphs
@@ -52,21 +52,21 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [micropolar](https://github.com/biovisualize/micropolar/) - A polar chart library
 - [mpld3](https://github.com/mpld3/mpld3) - Export matplotlib graphics to work in the Browser
 - [neo4jd3](https://github.com/eisman/neo4jd3) - Neo4j graph visualization
-- [nvd3](https://github.com/novus/nvd3) - Re-usable charts and chart components
+- [nvd3](https://github.com/novus/nvd3) - Re-usable charts and chart components [box plot, buttlet, candlestick, line, bar, pie, scatter, sparkline]
 - [peek](https://github.com/mtmacdonald/peek) - Object-oriented chart library
-- [plotly.js](https://github.com/plotly/plotly.js/) - High level charting library
+- [plotly.js](https://github.com/plotly/plotly.js/) - High level charting library [scatter, line, bar, pie, box plot, histogram, heatmap]
 - [plottable](https://github.com/palantir/plottable) - Flexible, interactive charts for the web
 - [radar-chart-d3](https://github.com/alangrafu/radar-chart-d3) - Radar chart module
 - [rickshaw](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
-- [taucharts](https://github.com/TargetProcess/tauCharts) - Charts with a focus on design and flexibility
-- [techan.js](https://github.com/andredumas/techan.js) - A visual, stock charting and technical analysis
-- [uvCharts](https://github.com/imaginea/uvCharts)  - Supports lots of different chart types
+- [taucharts](https://github.com/TargetProcess/tauCharts) - Charts with a focus on design and flexibility [line, bar, area, stacked]
+- [techan.js](https://github.com/andredumas/techan.js) - A visual, stock charting and technical analysis [candlestick, ohlc]
+- [uvCharts](https://github.com/imaginea/uvCharts)  - Supports lots of different chart types [bar, area, pie, stacked, line, polar, donut]
 - [vega](https://github.com/vega/vega) - A visualization grammar
 - [vega-lite](https://github.com/vega/vega-lite) - A high-level grammar of interactive graphics
 - [venn.js](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
 - [visavail](https://github.com/flrs/visavail) - Time data availability visualization
 - [vizabi](https://github.com/vizabi/vizabi) - A framework for building visual data exploration tools
-- [xkcdgraphs](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs
+- [xkcdgraphs](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs [line]
 
 ##### Third Party
 
