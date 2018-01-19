@@ -9,7 +9,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 ## Charts
 
 - [billboard.js](https://github.com/naver/billboard.js) - Re-usable chart library [bar, line, area, donut, pie, step]
-- [britecharts](https://github.com/eventbrite/britecharts/) - Client-side reusable charting library (bar, line, donut, sparkline, step)
+- [britecharts](https://github.com/eventbrite/britecharts/) - Client-side reusable charting library [bar, line, donut, sparkline, step]
 - [cirrusjs](https://github.com/planet-os/cirrusjs) - A multi-renderer charts library [area, line, stacked]
 - [cubism](https://github.com/square/cubism) - Time series visualization
 - [WebCola](https://github.com/tgdwyer/WebCola) - Layout for graph visualization and exploration
@@ -70,7 +70,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 
 ##### Third Party
 
-- [angular-nvd3](https://github.com/krispo/angular-nvd3) - NVd3 for Angular
+- [angular-nvd3](https://github.com/krispo/angular-nvd3) - NVd3 for Angular [line, stacked, bar, area, scatter, bullet, donut]
 - [d3act](https://github.com/AnSavvides/d3act) - d3 with React
 - [d3-simpleCharts](https://github.com/mrBigJS/d3-simpleCharts) - A d3 wordpress plugin
 - [ember-charts](https://github.com/Addepar/ember-charts/) - Charts for Ember
@@ -83,9 +83,9 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [react-stockcharts](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts
 - [react-vis](https://github.com/uber/react-vis) - A collection of react components to render visualizations
 - [recharts](https://github.com/recharts/recharts) - Re-designed charting library built with React
-- [semiotic](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3
-- [victory](https://github.com/FormidableLabs/victory) - Composable React components for building visualizations
-- [vx](https://github.com/hshoff/vx) - Visualization components for React
+- [semiotic](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3 [scatter, line, area]
+- [victory](https://github.com/FormidableLabs/victory) - Composable React components for building visualizations [area, bar, candlestick, pie, line, scatter, voronoi]
+- [vx](https://github.com/hshoff/vx) - Visualization components for React [bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo]
 
 ## Maps
 
