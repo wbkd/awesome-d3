@@ -5,6 +5,8 @@ This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins 
 
 Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](https://twitter.com/chrtze) of [webkid.io](http://www.webkid.io)
 
+You can also explore the list with our interactive [D3 Discovery](https://d3-discovery.net/) tool.
+
 
 ## Charts
 
