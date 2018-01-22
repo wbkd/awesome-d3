@@ -32,17 +32,17 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
 - [d3-horizon-chart](https://github.com/kmandov/d3-horizon-chart) - Horizon charts module
 - [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart
-- [d3plus](https://github.com/alexandersimoes/d3plus) - Extension library for easy creation of visualizations
+- [d3plus](https://github.com/alexandersimoes/d3plus) - Extension library for easy creation of visualizations [scatter, stacked, line, bar, pie, network, bubble, box, map]
 - [d3-timeline](https://github.com/commodityvectors/d3-timeline) - responsive timeline charts
-- [d3fc](https://github.com/d3fc/d3fc) - A collection of interactive chart components
+- [d3fc](https://github.com/d3fc/d3fc) - A collection of interactive chart components [line, bar, stacked, scatter, candlestick, ohlc]
 - [d3-funnel](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library
-- [d3panels](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing
+- [d3panels](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing [dot, scatter, line, heatmap, histogram]
 - [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting [plot, timeline, bar, histogram, pie]
 - [d3-timeseries](https://github.com/mcaule/d3-timeseries) - Time series charting library
-- [D4](https://github.com/heavysixer/d4) - Re-usable charts DSL
+- [D4](https://github.com/heavysixer/d4) - Re-usable charts DSL [bar, donut, line, scatter, stacked, waterfall]
 - [dTree](https://github.com/ErikGartner/dTree) - Family tree library
-- [epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library
+- [epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library [area, bar, line, pie, scatter]
 - [EventDrops](https://github.com/marmelab/EventDrops) - A time based/event series interactive visualization
 - [Fancycharts.js](https://github.com/ahoiin/Fancycharts.js) - Library to visualize percentage values
 - [firespray](https://github.com/boundary/firespray) - Streaming charts [bar, line, stacked]
