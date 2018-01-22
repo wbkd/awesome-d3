@@ -111,6 +111,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [leaflet-d3](https://github.com/Asymmetrik/leaflet-d3) - Collection of plugins for using D3 with Leaflet [map, geo]
 - [react-d3-basic](https://github.com/react-d3/react-d3-basic) - Library For Building Composable And Declarative Maps [map, geo]
 - [Wikimaps-D3js Atlas](https://github.com/WikimapsAtlas/WikimapsAtlas-generator) - CLI to generate raster, topojson and svg maps [map, geo]
+- [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - An SVG mapping component library for React, built on top of d3-geo
 
 ## Utils
 
