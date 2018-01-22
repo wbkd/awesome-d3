@@ -73,17 +73,17 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 ##### Third Party
 
 - [angular-nvd3](https://github.com/krispo/angular-nvd3) - NVd3 for Angular [line, stacked, bar, area, scatter, bullet, donut]
-- [d3act](https://github.com/AnSavvides/d3act) - d3 with React
+- [d3act](https://github.com/AnSavvides/d3act) - d3 with React [bar, bubble, pie]
 - [d3-simpleCharts](https://github.com/mrBigJS/d3-simpleCharts) - A d3 wordpress plugin
-- [ember-charts](https://github.com/Addepar/ember-charts/) - Charts for Ember
-- [line-chart](https://github.com/n3-charts/line-chart) - Line chart module for Angular
+- [ember-charts](https://github.com/Addepar/ember-charts/) - Charts for Ember [line, bar, stacked, pie, scatter]
+- [line-chart](https://github.com/n3-charts/line-chart) - Line chart module for Angular [line, area, bar]
 - [nivo](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability [bar, line, area, bubble, chord, heatmap]
 - [number-picture](https://github.com/finnfiddle/number-picture) - Collection of React components for composing visualizations
-- [react-d3](https://github.com/esbullington/react-d3) - Charts for React
-- [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components
-- [react-d3-library](https://github.com/react-d3-library/react-d3-library) - Library to use D3 in React
-- [react-stockcharts](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts
-- [react-vis](https://github.com/uber/react-vis) - A collection of react components to render visualizations
+- [react-d3](https://github.com/esbullington/react-d3) - Charts for React [area, bar, candlestick, line, pie, scatter]
+- [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components [bar, stacked, scatter, line, area, pie]
+- [react-d3-library](https://github.com/react-d3-library/react-d3-library) - Library to use D3 in React [area, bar, line, pie, scatter]
+- [react-stockcharts](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts [area, line, scatter, bubble, bar, stacked, candlestick]
+- [react-vis](https://github.com/uber/react-vis) - A collection of react components to render visualizations [area, bar, heatmap, line, scatter]
 - [recharts](https://github.com/recharts/recharts) - Re-designed charting library built with React
 - [semiotic](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3 [scatter, line, area]
 - [victory](https://github.com/FormidableLabs/victory) - Composable React components for building visualizations [area, bar, candlestick, pie, line, scatter, voronoi]
