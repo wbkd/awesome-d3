@@ -27,6 +27,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-bumps-chart](https://github.com/johnwalley/d3-bumps-chart) - Plugin for visualizing bumps charts
 - [d3-circle](https://github.com/tj/d3-circle) - Circle chart [donut]
 - [d3-dot](https://github.com/tj/d3-dot) - Dot chart
+- [d3-gridding](https://github.com/romsson/d3-gridding) - Chart mockups using grids
 - [d3-heatmap](https://github.com/tj/d3-heatmap) - Heatmap
 - [d3-line](https://github.com/tj/d3-line) - Line chart
 - [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
