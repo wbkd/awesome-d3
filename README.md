@@ -97,9 +97,12 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [datamaps](https://github.com/markmarkoh/datamaps) - Customizable map visualizations in one file
 - [d3-topogram](https://github.com/shawnbot/topogram) - Continuous area cartograms based on TopoJSON
 - [d3-exploder](https://github.com/bsouthga/d3-exploder) - Lets you easily move and resize geographic features
+- [d3-geo-polygon](https://github.com/d3/d3-geo-polygon) - Clipping and geometric operations for spherical polygons
 - [d3-geo-projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections
+- [d3-geo-voronoi](https://github.com/Fil/d3-geo-voronoi) - Voronoi diagrams and Delaunay triangulation for the sphere
 - [d3-geomap](https://github.com/yaph/d3-geomap) - Library for creating geographic maps
 - [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) - Morphing geojson polygons into rectangles
+- [d3-inertia](https://github.com/Fil/d3-inertia) - An extension to d3-drag that continues the mouse movement with some inertia
 - [earthjs](https://github.com/earthjs/earthjs) - Building orthographic globe with SVG, Canvas & WebGL
 - [mapmap.js](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 - [mapsense.js](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
