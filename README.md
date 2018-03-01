@@ -143,6 +143,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-scale-cluster](https://github.com/schnerd/d3-scale-cluster) - Scale that clusters data into discrete groups
 - [d3-sparql](https://github.com/zazuko/d3-sparql) - Utility for accessing data from SPARQL Endpoints
 - [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns
+- [d3-template](https://github.com/ErikOnBike/d3-template) - Plugin to create and render templates using D3's data binding mechanism
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltip helper
 - [d3-tipy](https://github.com/tj/d3-tipy) - Tooltip helper
 - [d3-tooltip](https://github.com/bumbeishvili/d3-tooltip) - Arrow shaped tooltip with shadows and dynamic content
