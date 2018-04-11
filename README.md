@@ -179,6 +179,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [jsdoc2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagrams and flowcharts from text in a markdown style
 - [netvis](https://github.com/dborzov/netvis) - Visualize network communication for arbitrary protocols
+- [D3 - Community Curated Resources](https://hackr.io/tutorials/learn-d3-js) - Top Recommended Resources.
 
 ## Server side
 - [d3-node](https://github.com/d3-node/d3-node) - Static chart and map generation
