@@ -93,6 +93,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [semiotic](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3 [scatter, line, area]
 - [victory](https://github.com/FormidableLabs/victory) - Composable React components for building visualizations [area, bar, candlestick, pie, line, scatter, voronoi]
 - [vx](https://github.com/hshoff/vx) - Visualization components for React [bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo]
+- [Vs](https://github.com/GopherJ/Vs) - Declarative visualisation components for Vue.js [bar, line, area, pie, donut, stacked, sankey, timeline]
 
 ## Maps
 
