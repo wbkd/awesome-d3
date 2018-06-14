@@ -173,7 +173,6 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-force-gravity](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion)
 - [d3-resume](https://github.com/glena/d3-resume) - Resume visualizer
 - [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
-- [d3-plugins](https://github.com/d3/d3-plugins/) - Collection of plugins (sankey, bullet, hexbin, ...)
 - [d3plus-text](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 - [graph-scroll](https://github.com/1wheel/graph-scroll) - Simple scrolling events
 - [jsdoc2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
