@@ -133,6 +133,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-extended](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
 - [d3-helpers](https://github.com/bahmutov/d3-helpers) - Little utility functions
 - [d3-history](https://github.com/vijithassar/d3-history) - Proper URL bar history
+- [d3-hsluv](https://github.com/petulla/d3-hsluv) - Human-friendly HSL (Hue, Saturation, Lightness) color space.
 - [d3-iconarray](https://github.com/tomgp/d3-iconarray) - A plug-in for aligning elements in grids
 - [d3kit](https://github.com/twitter/d3kit) - A set of tools to speed D3 related project development
 - [d3-Labeler](https://github.com/tinker10/D3-Labeler) - Plug-in for automatic label placement
