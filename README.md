@@ -152,6 +152,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-tipy](https://github.com/tj/d3-tipy) - Tooltip helper
 - [d3-tooltip](https://github.com/bumbeishvili/d3-tooltip) - Arrow shaped tooltip with shadows and dynamic content
 - [d3-trail](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements
+- [d3-voronoi-treemap](https://github.com/Kcnarf/d3-voronoi-treemap) - Computes a treemap based on a Voronoi tesselation
 - [d3-xray](https://github.com/vijithassar/d3-xray) - Bookmarklet that logs results of the data joins as you mouse over
 - [d3-slider](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider
 - [d3.svg.circularbrush](https://github.com/emeeks/d3.svg.circularbrush) - A brush for selecting cyclical data
