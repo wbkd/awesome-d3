@@ -43,6 +43,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting [plot, timeline, bar, histogram, pie]
 - [d3-timeseries](https://github.com/mcaule/d3-timeseries) - Time series charting library
+- [d3-x3d](https://github.com/jamesleesaunders/d3-x3d) - Reusable X3DOM charts and data viz components [bubble, bar, surfacearea, scatterplot]
 - [D4](https://github.com/heavysixer/d4) - Re-usable charts DSL [bar, donut, line, scatter, stacked, waterfall]
 - [dTree](https://github.com/ErikGartner/dTree) - Family tree library
 - [epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library [area, bar, line, pie, scatter]
@@ -95,8 +96,6 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [vx](https://github.com/hshoff/vx) - Visualization components for React [bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo]
 - [Vs](https://github.com/GopherJ/Vs) - Declarative visualisation components for Vue.js [bar, line, area, pie, donut, stacked, sankey, timeline]
 
-## 3D
-- [d3-x3d](https://github.com/jamesleesaunders/d3-x3d) - Reusable X3DOM charts and data viz components [bubble, bar, surfacearea, scatterplot]
 
 ## Maps
 
