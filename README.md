@@ -28,7 +28,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-circle](https://github.com/tj/d3-circle) - Circle chart [donut]
 - [d3-dag](https://github.com/erikbrinkman/d3-dag) - Layout algorithms for visualizing directed acylic graphs
 - [d3-dot](https://github.com/tj/d3-dot) - Dot chart
-- [d3-ez](https://github.com/jamesleesaunders/d3-ez) - Easy Reusable D3 Charts & Components
+- [d3-ez](https://github.com/jamesleesaunders/d3-ez) - Easy Reusable D3 Charts & Components [bar, donut, pie, bubble, rose, heatmap]
 - [d3-gridding](https://github.com/romsson/d3-gridding) - Chart mockups using grids
 - [d3-heatmap](https://github.com/tj/d3-heatmap) - Heatmap
 - [d3-line](https://github.com/tj/d3-line) - Line chart
