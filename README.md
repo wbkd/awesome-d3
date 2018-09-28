@@ -74,6 +74,9 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [vizabi](https://github.com/vizabi/vizabi) - A framework for building visual data exploration tools [bubble, map, line, bar, sankey, donut]
 - [xkcdgraphs](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs [line]
 
+##### 3D
+- [d3-x3d](https://github.com/jamesleesaunders/d3-x3d) - Reusable X3DOM charts and data viz components [bubble, bar, surfacearea, scatterplot]
+
 ##### Third Party
 
 - [angular-nvd3](https://github.com/krispo/angular-nvd3) - NVd3 for Angular [line, stacked, bar, area, scatter, bullet, donut]
