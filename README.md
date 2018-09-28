@@ -14,7 +14,6 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [britecharts](https://github.com/eventbrite/britecharts/) - Client-side reusable charting library [bar, line, donut, sparkline, step]
 - [cirrusjs](https://github.com/planet-os/cirrusjs) - A multi-renderer charts library [area, line, stacked]
 - [cubism](https://github.com/square/cubism) - Time series visualization
-- [WebCola](https://github.com/tgdwyer/WebCola) - Layout for graph visualization and exploration
 - [c3](https://github.com/c3js/c3) - Reusable chart library [line, spline, step, area, stacked, bar, pie, donut]
 - [dagre-d3](https://github.com/dagrejs/dagre-d3) - Layout directed graphs on the client-side
 - [dc.js](https://github.com/dc-js/dc.js) - For heavy amounts of data
@@ -29,21 +28,21 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-dag](https://github.com/erikbrinkman/d3-dag) - Layout algorithms for visualizing directed acylic graphs
 - [d3-dot](https://github.com/tj/d3-dot) - Dot chart
 - [d3-ez](https://github.com/jamesleesaunders/d3-ez) - Easy Reusable D3 Charts & Components [bar, donut, pie, bubble, rose, heatmap]
+- [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
+- [d3-funnel](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library
 - [d3-gridding](https://github.com/romsson/d3-gridding) - Chart mockups using grids
 - [d3-heatmap](https://github.com/tj/d3-heatmap) - Heatmap
-- [d3-line](https://github.com/tj/d3-line) - Line chart
-- [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
 - [d3-horizon-chart](https://github.com/kmandov/d3-horizon-chart) - Horizon charts module
+- [d3-line](https://github.com/tj/d3-line) - Line chart
 - [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart
-- [d3plus](https://github.com/alexandersimoes/d3plus) - Extension library for easy creation of visualizations [scatter, stacked, line, bar, pie, network, bubble, box, map]
 - [d3-timeline](https://github.com/commodityvectors/d3-timeline) - responsive timeline charts
+- [d3-timeseries](https://github.com/mcaule/d3-timeseries) - Time series charting library
+- [d3-x3d](https://github.com/jamesleesaunders/d3-x3d) - Reusable X3DOM charts and data viz components [bubble, bar, surfacearea, scatterplot]
 - [d3fc](https://github.com/d3fc/d3fc) - A collection of interactive chart components [line, bar, stacked, scatter, candlestick, ohlc]
-- [d3-funnel](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library
+- [d3plus](https://github.com/alexandersimoes/d3plus) - Extension library for easy creation of visualizations [scatter, stacked, line, bar, pie, network, bubble, box, map]
 - [d3panels](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing [dot, scatter, line, heatmap, histogram]
 - [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting [plot, timeline, bar, histogram, pie]
-- [d3-timeseries](https://github.com/mcaule/d3-timeseries) - Time series charting library
-- [d3-x3d](https://github.com/jamesleesaunders/d3-x3d) - Reusable X3DOM charts and data viz components [bubble, bar, surfacearea, scatterplot]
 - [D4](https://github.com/heavysixer/d4) - Re-usable charts DSL [bar, donut, line, scatter, stacked, waterfall]
 - [dTree](https://github.com/ErikGartner/dTree) - Family tree library
 - [epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library [area, bar, line, pie, scatter]
@@ -73,6 +72,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [venn.js](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
 - [visavail](https://github.com/flrs/visavail) - Time data availability visualization
 - [vizabi](https://github.com/vizabi/vizabi) - A framework for building visual data exploration tools [bubble, map, line, bar, sankey, donut]
+- [WebCola](https://github.com/tgdwyer/WebCola) - Layout for graph visualization and exploration
 - [xkcdgraphs](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs [line]
 
 ##### Third Party
@@ -138,7 +138,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-history](https://github.com/vijithassar/d3-history) - Proper URL bar history
 - [d3-hsluv](https://github.com/petulla/d3-hsluv) - Human-friendly HSL (Hue, Saturation, Lightness) color space.
 - [d3-iconarray](https://github.com/tomgp/d3-iconarray) - A plug-in for aligning elements in grids
-- [d3kit](https://github.com/twitter/d3kit) - A set of tools to speed D3 related project development
+- [d3-jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [d3-Labeler](https://github.com/tinker10/D3-Labeler) - Plug-in for automatic label placement
 - [d3-lasso](https://github.com/skokenes/d3-lasso) - Tag elements by drawing a line over or around objects
 - [d3-legend](https://github.com/susielu/d3-legend) - Legend helper
@@ -148,6 +148,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-ring-note](https://github.com/armollica/d3-ring-note) - Plugin for placing circle and text annotations
 - [d3-scale-cluster](https://github.com/schnerd/d3-scale-cluster) - Scale that clusters data into discrete groups
 - [d3-sparql](https://github.com/zazuko/d3-sparql) - Utility for accessing data from SPARQL Endpoints
+- [d3-slider](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider
 - [d3-starterkit](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns
 - [d3-template](https://github.com/ErikOnBike/d3-template) - Plugin to create and render templates using D3's data binding mechanism
 - [d3-tip](https://github.com/Caged/d3-tip) - Tooltip helper
@@ -156,11 +157,10 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-trail](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements
 - [d3-voronoi-treemap](https://github.com/Kcnarf/d3-voronoi-treemap) - Computes a treemap based on a Voronoi tesselation
 - [d3-xray](https://github.com/vijithassar/d3-xray) - Bookmarklet that logs results of the data joins as you mouse over
-- [d3-slider](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider
 - [d3.svg.circularbrush](https://github.com/emeeks/d3.svg.circularbrush) - A brush for selecting cyclical data
 - [d3.svg.ribbon](https://github.com/emeeks/d3.svg.ribbon) - An area interpolator
+- [d3kit](https://github.com/twitter/d3kit) - A set of tools to speed D3 related project development
 - [iopctrl](https://github.com/metormote/iopctrl) - Lib for making simple user interface controls
-- [d3-jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [kodama](https://github.com/DarkMarmot/kodama) - Tooltip Plugin
 - [swoopyarrows](https://github.com/bizweekgraphics/swoopyarrows) - Plugin to create swoopy arrows
 - [swoopy-drag](https://github.com/1wheel/swoopy-drag) - Artisanal label placement for d3 graphics
