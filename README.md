@@ -78,11 +78,11 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ##### Third Party
 
-- [angular-nvd3](https://github.com/krispo/angular-nvd3) - NVd3 for Angular [line, stacked, bar, area, scatter, bullet, donut]
+- [angular-nvd3](https://github.com/krispo/angular-nvd3) - NVd3 for AngularJS [line, stacked, bar, area, scatter, bullet, donut]
 - [d3act](https://github.com/AnSavvides/d3act) - d3 with React [bar, bubble, pie]
 - [d3-simpleCharts](https://github.com/mrBigJS/d3-simpleCharts) - A d3 wordpress plugin
 - [ember-charts](https://github.com/Addepar/ember-charts/) - Charts for Ember [line, bar, stacked, pie, scatter]
-- [line-chart](https://github.com/n3-charts/line-chart) - Line chart module for Angular [line, area, bar]
+- [line-chart](https://github.com/n3-charts/line-chart) - Line chart module for AngularJS [line, area, bar]
 - [nivo](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability [bar, line, area, bubble, chord, heatmap]
 - [ngx-charts](https://github.com/swimlane/ngx-charts) - Chart framework for Angular [bar, pie, line, area, polar, stacked, bubble]
 - [potion](https://github.com/finnfiddle/potion) - Collection of React components for composing visualizations
