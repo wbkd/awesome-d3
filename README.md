@@ -24,6 +24,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3.chart.sankey](https://github.com/q-m/d3.chart.sankey) - Reusable D3 Sankey diagram
 - [d3-bar](https://github.com/tj/d3-bar) - Bar chart
 - [d3-beeswarm](https://github.com/Kcnarf/d3-beeswarm) - Plugin which computes a beeswarm arrangement
+- [d3-boxplot](https://github.com/akngs/d3-boxplot) - d3js box plot plugin
 - [d3-bumps-chart](https://github.com/johnwalley/d3-bumps-chart) - Plugin for visualizing bumps charts
 - [d3-circle](https://github.com/tj/d3-circle) - Circle chart [donut]
 - [d3-dag](https://github.com/erikbrinkman/d3-dag) - Layout algorithms for visualizing directed acylic graphs
