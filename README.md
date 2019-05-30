@@ -83,6 +83,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3act](https://github.com/AnSavvides/d3act) - d3 with React [bar, bubble, pie]
 - [d3-simpleCharts](https://github.com/mrBigJS/d3-simpleCharts) - A d3 wordpress plugin
 - [ember-charts](https://github.com/Addepar/ember-charts/) - Charts for Ember [line, bar, stacked, pie, scatter]
+- [Layer Cake](https://layercake.graphics/) - A graphics framework built on top of Svelte.
 - [line-chart](https://github.com/n3-charts/line-chart) - Line chart module for AngularJS [line, area, bar]
 - [nivo](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability [bar, line, area, bubble, chord, heatmap]
 - [ngx-charts](https://github.com/swimlane/ngx-charts) - Chart framework for Angular [bar, pie, line, area, polar, stacked, bubble]
