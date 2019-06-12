@@ -37,6 +37,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-horizon-chart](https://github.com/kmandov/d3-horizon-chart) - Horizon charts module
 - [d3-line](https://github.com/tj/d3-line) - Line chart
 - [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart
+- [d3-pivots](https://github.com/ksokolovic/d3-pivots) - D3 plugin allowing to create pivot bar chart from a flat data set [bar, pivot]
 - [d3-timeline](https://github.com/commodityvectors/d3-timeline) - responsive timeline charts
 - [d3-timeseries](https://github.com/mcaule/d3-timeseries) - Time series charting library
 - [d3-x3dom](https://github.com/jamesleesaunders/d3-x3dom) - Reusable X3DOM charts and data viz components [bubble, bar, surfacearea, scatterplot]
