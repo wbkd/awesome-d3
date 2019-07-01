@@ -193,6 +193,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ## Server side
 - [d3-node](https://github.com/d3-node/d3-node) - Static chart and map generation
+- [Kyrix](https://github.com/tracyhenry/Kyrix) - Interactive pan/zoom Visualizations with automatic server-side scaling support. 
 
 ## Code Editors
 - [d3-snippets](https://github.com/martgnz/d3-snippets) - Snippets for Atom
