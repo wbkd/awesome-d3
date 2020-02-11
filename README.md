@@ -111,6 +111,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-exploder](https://github.com/bsouthga/d3-exploder) - Lets you easily move and resize geographic features
 - [d3-geo-polygon](https://github.com/d3/d3-geo-polygon) - Clipping and geometric operations for spherical polygons
 - [d3-geo-projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections
+- [d3-geo-scale-bar](https://github.com/HarryStevens/d3-geo-scale-bar) - Displays automatic scale bars for projected geospatial data.
 - [d3-geo-voronoi](https://github.com/Fil/d3-geo-voronoi) - Voronoi diagrams and Delaunay triangulation for the sphere
 - [d3-geomap](https://github.com/yaph/d3-geomap) - Library for creating geographic maps
 - [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) - Morphing geojson polygons into rectangles
