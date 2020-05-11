@@ -7,6 +7,15 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 
 You can also explore the list with our interactive [D3 Discovery](https://d3-discovery.net/) tool.
 
+## Table of Content
+
+- [Charts](#charts)
+- [Maps](#maps)
+- [Utils](#utils)
+- [Miscellaneous](#miscellaneous)
+- [Server side](#server-side)
+- [Code Editors](#code-ditors)
+- [Bl.ocks.org Profiles](#Bl.ocks.org-profiles)
 
 ## Charts
 
