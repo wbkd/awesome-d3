@@ -19,6 +19,8 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ## Charts
 
+**[`^        back to top        ^`](#)**
+
 - [billboard.js](https://github.com/naver/billboard.js) - Re-usable chart library [bar, line, area, donut, pie, step, spline]
 - [britecharts](https://github.com/eventbrite/britecharts/) - Client-side reusable charting library [bar, line, donut, sparkline, step]
 - [chart-parts](https://github.com/Microsoft/chart-parts) - A flexible, React-friendly, Grammar of Graphics for data visualization
@@ -113,6 +115,8 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ## Maps
 
+**[`^        back to top        ^`](#)**
+
 - [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A mapping API that uses D3 geospatial functionality
 - [d3-composite-projections](https://github.com/rveciana/d3-composite-projections) - Projections for showing countries' distant lands together
 - [datamaps](https://github.com/markmarkoh/datamaps) - Customizable map visualizations in one file
@@ -140,6 +144,8 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - An SVG mapping component library for React, built on top of d3-geo [map, geo]
 
 ## Utils
+
+**[`^        back to top        ^`](#)**
 
 - [crossfilter](https://github.com/crossfilter/crossfilter) - Library for exploring large multivariate datasets
 - [d3kit-timeline](https://github.com/kristw/d3kit-timeline) - Timeline component that labels do not overlap
@@ -183,6 +189,8 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ## Miscellaneous
 
+**[`^        back to top        ^`](#)**
+
 - [chess-dataviz](https://github.com/ebemunk/chess-dataviz) - Chess dataviz library
 - [codeflower](https://github.com/fzaninotto/CodeFlower) - Bird's eye view of the whole code
 - [comic.js](https://github.com/balint42/comic.js) - Cartoon style drawing. Works also for canvas, Raphael & SVG.js
@@ -203,15 +211,23 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [twitter-sentiment-visualisation](https://github.com/Lissy93/twitter-sentiment-visualisation) - A series of D3.js charts showing realtime sentiment of Twitter data  
 
 ## Server side
+
+**[`^        back to top        ^`](#)**
+
 - [d3-node](https://github.com/d3-node/d3-node) - Static chart and map generation
 - [Kyrix](https://github.com/tracyhenry/Kyrix) - Interactive pan/zoom Visualizations with automatic server-side scaling support. 
 
 ## Code Editors
+
+**[`^        back to top        ^`](#)**
+
 - [d3-snippets](https://github.com/martgnz/d3-snippets) - Snippets for Atom
 - [d3-snippets-for-sublime-text-2](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2) - Snippets for Sublime
 - [d3Snippets](https://github.com/Ledragon/d3Snippets) - Snippets for VS Code
 
 ## Bl.ocks.org Profiles
+
+**[`^        back to top        ^`](#)**
 
  * [Adam Pearce - 1wheel](https://bl.ocks.org/1wheel)
  * [Colin Eberhardt - ColinEberhardt](https://bl.ocks.org/ColinEberhardt)
