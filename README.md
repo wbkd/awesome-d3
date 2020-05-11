@@ -15,7 +15,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [Miscellaneous](#miscellaneous)
 - [Server side](#server-side)
 - [Code Editors](#code-editors)
-- [Bl.ocks.org Profiles](#Bl.ocks.org-profiles)
+- [Bl.ocks.org Profiles](#blocksorg-profiles)
 
 ## Charts
 
