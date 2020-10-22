@@ -137,7 +137,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [crossfilter](https://github.com/crossfilter/crossfilter) - Library for exploring large multivariate datasets
 - [d3kit-timeline](https://github.com/kristw/d3kit-timeline) - Timeline component that labels do not overlap
 - [d3scription](https://github.com/GlobalWebIndex/d3scription) - Tooltip with window edge collision detection
-- [d3-annotation](https://github.com/susielu/d3-annotation) - Annotaion helper with built-in annotation types
+- [d3-annotation](https://github.com/susielu/d3-annotation) - Annotation helper with built-in annotation types
 - [d3-area-label](https://github.com/curran/d3-area-label) - A library for placing labels in areas
 - [d3-breadcrumbs](https://github.com/bumbeishvili/d3-breadcrumbs) - Simplifies breadcrumbs usage
 - [d3-component](https://github.com/curran/d3-component) - Lightweight component abstraction
