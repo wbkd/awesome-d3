@@ -10,6 +10,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ## Charts
 
+- [d3-plot3d](https://github.com/vishaalagartha/d3-plot3d/) - D3 plugin for plotting 3D data, lines, shapes, curves, and surfaces [3D, curves, surfaces]
 - [billboard.js](https://github.com/naver/billboard.js) - Re-usable chart library [bar, line, area, donut, pie, step, spline]
 - [britecharts](https://github.com/eventbrite/britecharts/) - Client-side reusable charting library [bar, line, donut, sparkline, step]
 - [chart-parts](https://github.com/Microsoft/chart-parts) - A flexible, React-friendly, Grammar of Graphics for data visualization
