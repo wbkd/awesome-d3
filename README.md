@@ -37,7 +37,6 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-horizon-chart](https://github.com/kmandov/d3-horizon-chart) - Horizon charts module
 - [d3-line](https://github.com/tj/d3-line) - Line chart
 - [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart
-- [d3-timeline](https://github.com/commodityvectors/d3-timeline) - responsive timeline charts
 - [d3-timeseries](https://github.com/mcaule/d3-timeseries) - Time series charting library
 - [d3-upset](https://github.com/chuntul/d3-upset) - Functions for plotting an UpSet plot [upset, bar, intersections, venn, relationships]
 - [d3-x3d](https://github.com/jamesleesaunders/d3-x3d) - Data Driven 3D Charts with D3 and X3D [bubble, bar, surfacearea, scatterplot, area]
