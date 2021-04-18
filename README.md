@@ -93,6 +93,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components [bar, stacked, scatter, line, area, pie]
 - [react-d3-library](https://github.com/react-d3-library/react-d3-library) - Library to use D3 in React [area, bar, line, pie, scatter]
 - [react-stockcharts](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts [area, line, scatter, bubble, bar, stacked, candlestick]
+- [react-use-d3](https://github.com/inokawa/react-use-d3) - A React hook to use D3
 - [react-vis](https://github.com/uber/react-vis) - A collection of react components to render visualizations [area, bar, heatmap, line, scatter]
 - [reaviz](https://github.com/reaviz/reaviz) - Data visualization library for React based on D3
 - [recharts](https://github.com/recharts/recharts) - Re-designed charting library built with React
