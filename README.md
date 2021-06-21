@@ -145,6 +145,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-history](https://github.com/vijithassar/d3-history) - Proper URL bar history
 - [d3-hsluv](https://github.com/petulla/d3-hsluv) - Human-friendly HSL (Hue, Saturation, Lightness) color space.
 - [d3-iconarray](https://github.com/tomgp/d3-iconarray) - A plug-in for aligning elements in grids
+- [d3-interpolate-path](https://github.com/pbeshai/d3-interpolate-path) - Interpolates paths with different number of points
 - [d3-jetpack](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [d3-Labeler](https://github.com/tinker10/D3-Labeler) - Plug-in for automatic label placement
 - [d3-lasso](https://github.com/skokenes/d3-lasso) - Tag elements by drawing a line over or around objects
