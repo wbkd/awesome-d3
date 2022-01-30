@@ -185,6 +185,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-context-menu](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
 - [d3-force-gravity](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion)
 - [d3-force-reuse](https://github.com/twosixlabs/d3-force-reuse) - Faster force-directed graph layouts by reusing force approximations
+- [d3-force-sampled](https://github.com/twosixlabs/d3-force-sampled) - Super fast, linear-time force-directed graph layouts by Random Vertex Sampling
 - [d3-resume](https://github.com/glena/d3-resume) - Resume visualizer
 - [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
 - [d3plus-text](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
