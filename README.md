@@ -68,7 +68,6 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [rickshaw](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs [line, scatter, bar]
 - [taucharts](https://github.com/TargetProcess/tauCharts) - Charts with a focus on design and flexibility [line, bar, area, stacked]
 - [techan.js](https://github.com/andredumas/techan.js) - A visual, stock charting and technical analysis [candlestick, ohlc]
-- [uvCharts](https://github.com/imaginea/uvCharts)  - Supports lots of different chart types [bar, area, pie, stacked, line, polar, donut]
 - [vega](https://github.com/vega/vega) - A visualization grammar
 - [vega-lite](https://github.com/vega/vega-lite) - A high-level grammar of interactive graphics
 - [vega-lite-api](https://github.com/vega/vega-lite-api) - A JavaScript API for Vega-Lite.
