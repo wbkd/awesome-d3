@@ -42,6 +42,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - Optimized for visualizing time-series data [line, scatter, area]
 - [micropolar](https://github.com/biovisualize/micropolar/) - A polar chart library
 - [mpld3](https://github.com/mpld3/mpld3) - Export matplotlib graphics to work in the Browser
+- [MetaReview](https://github.com/TerryFYL/metareview) - Interactive statistical charts for medical research built with D3.js v7 [forest plot, funnel plot, network meta-analysis, meta-regression, dose-response, Galbraith, L'Abbé, Baujat]
 - [neo4jd3](https://github.com/eisman/neo4jd3) - Neo4j graph visualization
 - [nvd3](https://github.com/novus/nvd3) - Re-usable charts and chart components [box plot, buttlet, candlestick, line, bar, pie, scatter, sparkline]
 - [oecd-simple-charts](https://github.com/oecd-cyc/oecd-simple-charts) - Simple charting library [box plot, stacked bar, pearl chart]
