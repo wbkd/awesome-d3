@@ -90,6 +90,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-geomap](https://github.com/yaph/d3-geomap) - Library for creating geographic maps
 - [d3.geo2rect](https://github.com/sebastian-meier/d3.geo2rect) - Morphing geojson polygons into rectangles
 - [d3-inertia](https://github.com/Fil/d3-inertia) - An extension to d3-drag that continues the mouse movement with some inertia
+- [MapMetrics GL](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search
 - [mapmap.js](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 - [maptable](https://github.com/Packet-Clearing-House/maptable) - Convert datasets to a set of visual components (Map, Filters, Table)
 - [simple-map-d3](https://github.com/MinnPost/simple-map-d3) - Easy choropleth style maps
