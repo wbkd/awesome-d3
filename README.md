@@ -8,6 +8,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 You can also explore the list with our interactive [D3 Discovery](https://d3-discovery.net/) tool.
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for D3.js data visualization workflow orchestration, automated chart management, and multi-agent coordination. MIT licensed.
 ## Charts
 
 - [billboard.js](https://github.com/naver/billboard.js) - Re-usable chart library [bar, line, area, donut, pie, step, spline]
