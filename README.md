@@ -8,6 +8,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 You can also explore the list with our interactive [D3 Discovery](https://d3-discovery.net/) tool.
 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=wbkd_awesome-d3) - Follow developers on GitHub and get a feed of what they star and build.
 ## Charts
 
 - [billboard.js](https://github.com/naver/billboard.js) - Re-usable chart library [bar, line, area, donut, pie, step, spline]
