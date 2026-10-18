@@ -32,7 +32,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3-upset](https://github.com/chuntul/d3-upset) - Functions for plotting an UpSet plot [upset, bar, intersections, venn, relationships]
 - [d3-x3d](https://github.com/jamesleesaunders/d3-x3d) - Data Driven 3D Charts with D3 and X3D [bubble, bar, surfacearea, scatterplot, area]
 - [d3fc](https://github.com/d3fc/d3fc) - A collection of interactive chart components [line, bar, stacked, scatter, candlestick, ohlc]
-- [d3plus](https://github.com/alexandersimoes/d3plus) - Extension library for easy creation of visualizations [scatter, stacked, line, bar, pie, network, bubble, box, map]
+- [d3plus](https://github.com/d3plus/d3plus) - Extension library for easy creation of visualizations [scatter, stacked, line, bar, pie, network, bubble, box, map]
 - [d3panels](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing [dot, scatter, line, heatmap, histogram]
 - [d3pie](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
 - [D3xter](https://github.com/NathanEpstein/D3xter) - Straight forward plotting [plot, timeline, bar, histogram, pie]
@@ -72,7 +72,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [recharts](https://github.com/recharts/recharts) - Re-designed charting library built with React
 - [semiotic](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3 [scatter, line, area]
 - [victory](https://github.com/FormidableLabs/victory) - Composable React components for building visualizations [area, bar, candlestick, pie, line, scatter, voronoi]
-- [vx](https://github.com/hshoff/vx) - Visualization components for React [bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo]
+- [visx](https://github.com/airbnb/visx) - Visualization components for React [bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo]
 - [Vs](https://github.com/GopherJ/Vs) - Declarative visualisation components for Vue.js [bar, line, area, pie, donut, stacked, sankey, timeline]
 - [v-chart-plugin](https://github.com/ignoreintuition/v-chart-plugin) - Easily bind a chart to the data stored in your Vue.js components.
 
@@ -97,7 +97,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ##### Third Party
 
-- [leaflet-d3](https://github.com/Asymmetrik/leaflet-d3) - Collection of plugins for using D3 with Leaflet [map, geo]
+- [leaflet-d3](https://github.com/bluehalo/leaflet-d3) - Collection of plugins for using D3 with Leaflet [map, geo]
 - [Wikimaps-D3js Atlas](https://github.com/WikimapsAtlas/WikimapsAtlas-generator) - CLI to generate raster, topojson and svg maps [map, geo]
 - [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - An SVG mapping component library for React, built on top of d3-geo [map, geo]
 
@@ -145,7 +145,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
 - [d3plus-text](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 - [graph-scroll](https://github.com/1wheel/graph-scroll) - Simple scrolling events
-- [mermaid](https://github.com/knsv/mermaid) - Generation of diagrams and flowcharts from text in a markdown style
+- [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams and flowcharts from text in a markdown style
 - [netvis](https://github.com/dborzov/netvis) - Visualize network communication for arbitrary protocols
 - [treeviz](https://github.com/PierreCapo/treeviz) - Create customizable trees from json data
 - [twitter-sentiment-visualisation](https://github.com/Lissy93/twitter-sentiment-visualisation) - A series of D3.js charts showing realtime sentiment of Twitter data  
